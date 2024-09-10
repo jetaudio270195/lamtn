@@ -51,7 +51,8 @@ if 'checkbox_checked' not in st.session_state:
 
 st.set_page_config(layout="wide")
 
-st.title("Làm trắc nghiệm")
+st.title("Trắc Nghiệm Sau Đại Học Y Khoa Phạm Ngọc Thạch")
+st.write("Liên hệ: jetaudio.media@gmail.com")
 col1, col2, col3 = st.columns([1, 10, 1], vertical_alignment='center')
 
 # Handle previous and next buttons
