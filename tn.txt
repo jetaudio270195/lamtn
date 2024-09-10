@@ -34,7 +34,7 @@ B. 3
 C. 4*
 D. 5
 
-Bệnh nhân dùng thuốc chống đông đột ngột lú lẫn và liệt nửa người phải. Hình ảnh CT scan sọ-não không thuốc cản quang dưới đây gợi ý? 
+Bệnh nhân dùng thuốc chống đông đột ngột lú lẫn và liệt nửa người phải. Hình ảnh CT scan sọ-não không thuốc cản quang dưới đây gợi ý?<img>img/2.jpg</img>
 A. Xuất huyết dưới màng cứng
 B. Xuất huyết não thất*
 C. Xuất huyết ngoài màng cứng
@@ -120,7 +120,7 @@ C. Chụp cộng hưởng từ.
 D. Chụp mạch máu.
  
 
-Hãy cho biết đây là loại tổn thương nào? 
+Hãy cho biết đây là loại tổn thương nào?<img>img/1.jpg</img>
 A. Xuất huyết dưới nhện.
 B. Xuất huyết trong não thất.
 C. Tổn thương sợi trục lan toả. 
@@ -894,7 +894,7 @@ E. Tất cả sai
 Nhau tiền đạo thuộc nhau nhóm mấy :
 A. 1
 B. 2
-C. 3
+C. 3*
 D. Có thể ở bất cứ nhóm nào
 E. Không thuộc nhóm nào
 

@@ -1,6 +1,7 @@
 import streamlit as st
 from os.path import exists
 import random
+import re
 
 # Read data from tn.txt
 def load_data():
@@ -11,6 +12,10 @@ def load_data():
             for q in raw_data:
                 q = q.strip().split('\n')
                 question = q[0]
+                imgs = re.findall(r'<img>(.+?)</img>', question)
+                if imgs:
+                    for img in imgs:
+                        question = question.replace(f'<img>{img}</img>', '')
                 options = q[1:]
                 correct = [c for c in options if c.endswith('*')]
                 if correct:
@@ -18,7 +23,7 @@ def load_data():
                 else:
                     correct = None  # Set to None if no correct answer is marked
                 options = [o.replace('*', '') for o in options]
-                data.append({"question": question, "options": options, "correct": correct})
+                data.append({"question": question, "options": options, "correct": correct, "imgs": imgs})
             random.shuffle(data)
             return data
     else:
@@ -64,6 +69,9 @@ quiz_data = st.session_state.quiz_data
 with col2:
     st.write(f"Question {qs_index + 1} of {len(quiz_data)}")
     st.write(quiz_data[qs_index]['question'])
+    if quiz_data[qs_index]['imgs']:
+        for img in quiz_data[qs_index]['imgs']:
+            st.image(img, width=128)
 
     # Radio button with no default selection (initial value is None)
     user_answer = st.radio("Select an answer", quiz_data[qs_index]["options"], index=None, key=f"answer_{qs_index}")
