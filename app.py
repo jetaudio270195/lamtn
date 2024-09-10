@@ -1,5 +1,6 @@
 import streamlit as st
 from os.path import exists
+import random
 
 # Read data from tn.txt
 def load_data():
@@ -18,6 +19,7 @@ def load_data():
                     correct = None  # Set to None if no correct answer is marked
                 options = [o.replace('*', '') for o in options]
                 data.append({"question": question, "options": options, "correct": correct})
+                random.shuffle(data)
             return data
     else:
         return [
