@@ -9,7 +9,7 @@ def load_data():
             data = []
             raw_data = f.read().split('\n\n')
             for q in raw_data:
-                q = q.split('\n')
+                q = q.strip().split('\n')
                 question = q[0]
                 options = q[1:]
                 correct = [c for c in options if c.endswith('*')]
@@ -19,7 +19,7 @@ def load_data():
                     correct = None  # Set to None if no correct answer is marked
                 options = [o.replace('*', '') for o in options]
                 data.append({"question": question, "options": options, "correct": correct})
-                random.shuffle(data)
+            random.shuffle(data)
             return data
     else:
         return [
@@ -53,8 +53,6 @@ if 'checkbox_checked' not in st.session_state:
     st.session_state.checkbox_checked = False
 
 st.set_page_config(layout="wide")
-
-
 
 st.title("Làm trắc nghiệm")
 col1, col2, col3 = st.columns([1, 10, 1])
