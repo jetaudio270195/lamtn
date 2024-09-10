@@ -62,6 +62,7 @@ qs_index = st.session_state.qs_index
 quiz_data = st.session_state.quiz_data
 
 with col2:
+    st.write(f"Question {qs_index + 1} of {len(quiz_data)}")
     st.write(quiz_data[qs_index]['question'])
 
     # Radio button with no default selection (initial value is None)
