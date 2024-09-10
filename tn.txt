@@ -121,10 +121,10 @@ D. Chụp mạch máu.
  
 
 Hãy cho biết đây là loại tổn thương nào?<img>img/1.jpg</img>
-A. Xuất huyết dưới nhện.
+A. Xuất huyết dưới nhện.*
 B. Xuất huyết trong não thất.
 C. Tổn thương sợi trục lan toả. 
-D. Tụ máu ngoài màng cứng.*
+D. Tụ máu ngoài màng cứng.
 
 Chọn câu ĐÚNG, các mặt cắt trong siêu âm bụng :
 A. Mặt cắt số I lấy  túi mật làm mốc
