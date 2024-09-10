@@ -894,7 +894,7 @@ E. Tất cả sai
 Nhau tiền đạo thuộc nhau nhóm mấy :
 A. 1
 B. 2
-C. 3
+C. 3*
 D. Có thể ở bất cứ nhóm nào
 E. Không thuộc nhóm nào
 
