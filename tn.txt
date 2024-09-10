@@ -1198,3 +1198,254 @@ A. CT scan*
 B. Siêu âm
 C. X quang
 D. MRI
+
+Mặt cắt gì ?<img>img/3.jpg</img>
+A. I 
+B. II 
+C. III 
+D. IV 
+E. Trung đòn phải 
+
+Mặt cắt gì ? <img>img/4.jpg</img>
+A. I 
+B. II 
+C. III 
+D. IV 
+E. Vai phải – rốn
+
+Mặt cắt gì ? <img>img/5.jpg</img> 
+A. I 
+B. II 
+C. III 
+D. Liên sườn P 
+E. Thượng vị 
+
+Chi tiết gì ? <img>img/6.jpg</img> 
+A. TM cửa 
+B. TM chủ dưới 
+C. ĐM chủ bụng 
+D. ĐM thận 
+E. ĐM mạc treo tràng trên 
+
+Chi tiết gì ? <img>img/7.jpg</img> 
+A. ĐM gan chung 
+B. TM cửa 
+C. TM gan T 
+D. TM gan P 
+E. TM gan giữa 
+
+Chi tiết gì ? <img>img/8.jpg</img> 
+A. Túi mật 
+B. TM cửa 
+C. TM gan T 
+D. TM gan P 
+E. TM gan giữa
+ 
+Chi tiết gì ? <img>img/9.jpg</img> 
+A. Lách 
+B. Tụy 
+C. Thận 
+D. Gan 
+E. Dạ dày 
+
+Mặt cắt gì ? <img>img/10.jpg</img> 
+A. Mặt cắt cận giữa T 
+B. Mặt cắt cận giữa P 
+C. Mặt cắt dọc trục thận 
+D. Mặt cắt ngang trục thận 
+E. Mặt cắt hạ vị 
+
+Chi tiết gì ? <img>img/11.jpg</img> 
+A. ĐM gan chung 
+B. TM cửa 
+C. TM gan T 
+D. TM gan P 
+E. TM gan giữa 
+
+Mặt cắt gì ? <img>img/12.jpg</img> 
+A. I 
+B. II 
+C. III 
+D. IV 
+E. Thượng vị 
+
+Mặt cắt gì ? <img>img/13.jpg</img> 
+A. Mặt cắt cạnh giữa 
+B. Mặt cắt thượng vị 
+C. Mặt cắt dọc trục thận 
+D. Mặt cắt ngang trục thận 
+E. Mặt cắt hạ vị 
+
+Cấu trúc gì ? <img>img/14.jpg</img> 
+A. Lách 
+B. Tụy 
+C. Bàng quang 
+D. Tử cung 
+E. Tuyến tiền liệt 
+
+Mặt cắt gì ? <img>img/15.jpg</img> 
+A. I 
+B. II 
+C. III 
+D. IV 
+E. Cạnh giữa P 
+
+Chi tiết gì ? (MT đỏ) <img>img/16.jpg</img> 
+A. Túi mật 
+B. TM lách 
+C. TM gan T 
+D. TM gan P 
+E. TM gan giữa 
+
+Mặt cắt gì ? <img>img/17.jpg</img> 
+A. Mặt cắt cận giữa T 
+B. Mặt cắt cận giữa P 
+C. Mặt cắt dọc trục thận 
+D. Mặt cắt ngang trục thận 
+E. Mặt cắt hạ vị 
+
+BN đau vùng hạ sườn phải, hình ảnh siêu âm nghĩ đến bệnh lý gì ? <img>img/18.jpg</img> 
+A. Viêm gan cấp 
+B. Viêm ruột thừa dưới gan 
+C. Sỏi thận 
+D. Sỏi túi mật 
+E. Viêm tụy cấp 
+
+Chi tiết gì ? <img>img/19.jpg</img> 
+A. ĐM gan chung 
+B. TM cửa 
+C. TM gan T 
+D. TM gan P 
+E. TM gan giữa 
+
+Chi tiết gì ? (MT đỏ) <img>img/20.jpg</img> 
+A. Túi mật 
+B. TM lách 
+C. TM gan T 
+D. TM gan P 
+E. Tụy 
+
+BN đau vùng hạ sườn phải, hình ảnh siêu âm nghĩ đến bệnh lý gì ? <img>img/21.jpg</img> 
+A. Viêm gan cấp 
+B. Áp xe gan 
+C. Ung thư gan 
+D. Hemangioma 
+E. Viêm tụy cấp 
+
+BN đau vùng hố chậu phải, hình ảnh siêu âm nghĩ đến bệnh lý gì ? <img>img/22.jpg</img> 
+A. Nhồi máu mạc treo 
+B. Lao hồi manh tràng 
+C. Viêm ruột thừa cấp 
+D. Ung thư đại tràng 
+E. Viêm phần phụ 
+
+BN trễ kinh, ói nhiều, siêu âm gợi ý bệnh lý gì ? <img>img/23.jpg</img> 
+A. Thai ngoài tử cung 
+B. Thai trứng toàn phần 
+C. Nang buồng trứng vỡ 
+D. Ung thư nội mạc tử cung 
+E. Sẩy thai 
+
+BN trễ kinh, QS (+), đau bụng dưới, siêu âm thấy hình ảnh <img>img/24.jpg</img> 
+A. Túi thai thật trong lòng tử cung 
+B. Túi thai giả trong lòng tử cung 
+C. Thai ngoài tử cung ở vòi trứng 
+D. Nang hoàng thể thai kỳ 
+E. Viêm ống dẫn trứng 
+
+Chi tiết gì ? <img>img/25.jpg</img> 
+A. ĐM gan chung 
+B. TM cửa 
+C. TM gan T 
+D. TM gan P 
+E. TM gan giữa
+
+Siêu âm đang ở mặt cắt đường trung đòn P, phía trên màn hình là : <img>img/26.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai
+ 
+Siêu âm đang ở mặt cắt ngang hạ vị mũi tên trên màn hình tươn ứng: <img>img/27.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
+
+Siêu âm đang ở mặt cắt ngang hạ vị mũi tên trên màn hình tươn ứng: <img>img/28.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
+
+Hình ảnh gì trên siêu âm thai <img>img/29.jpg</img> 
+A. Rốn quấn cổ 
+B. Dấu hiệu vòng lửa 
+C. Dấu hiệu vòng ống 
+D. U buồng trứng xoắn 
+E. Tất cả sai 
+
+Siêu âm đang ở mặt cắt đường trung đòn P, phía dưới màn hình là : <img>img/30.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
+
+Siêu âm đang ở mặt cắt ngang hạ vị mũi tên trên màn hình tương ứng: <img>img/31.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
+
+Mặt cắt gì ? <img>img/32.jpg</img> 
+A. Trung đòn P 
+B. Dọc thận 
+C. Ngang thận 
+D. Cận giữa T 
+E. Cận giữa P 
+
+BN đau hạ sườn phải, siêu âm cho hình ảnh sau. Có thể kết luận gì ? <img>img/33.jpg</img> 
+A. Viêm túi mật cấp 
+B. Sỏi OMC 
+C. Sỏi túi mật 
+D. Sỏi niệu quản 
+E. Tất cả sai 
+
+Siêu âm đang ở mặt cắt đường trung đòn P, phía trái màn hình là : <img>img/34.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
+
+Siêu âm đang ở mặt cắt ngang hạ vị mũi tên trên màn hình tương ứng: <img>img/35.jpg</img> 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
+
+Siêu âm thai, kết luận gì ? <img>img/36.jpg</img> 
+A. Bánh nhau bình thường, độ 3 
+B. Bánh nhau mỏng 
+C. Bánh nhau dày với nhiều nang nhỏ 
+D. Bánh nhau vôi hóa 
+E. Tất cả sai 
+
+BN đau hạ sườn phải, siêu âm cho hình ảnh sau . Kết luận gì ?<img>img/37.jpg</img> 
+A. U máu gan 
+B. Carcinom tế bào gan 
+C. Viêm túi mật cấp 
+D. A.B đúng 
+E. A,B,C đúng 
+
+Siêu âm đang ở mặt cắt đường trung đòn P, phía phải màn hình là : <img>img/38.jpg</img> 
+A. Phía trước BN 
+B. Phía sau BN 
+C. Bên T BN 
+D. Bên P BN 
+E. Tất cả sai 
