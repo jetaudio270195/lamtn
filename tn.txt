@@ -683,8 +683,7 @@ E. B,C đúng
 Chấn thương thận :
 A. Là tổn thương hiếm gặp < 10%
 B. Có thể theo dõi đơn thuần
-C. Gồm các tổn thương đụng giập, tụ máu dưới bao, vỡ thận, tổn thương mạch
-máu
+C. Gồm các tổn thương đụng giập, tụ máu dưới bao, vỡ thận, tổn thương mạch máu
 D. A,C đúng
 E. Tất cả đúng*
 
