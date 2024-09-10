@@ -71,7 +71,7 @@ with col2:
     st.write(quiz_data[qs_index]['question'])
     if quiz_data[qs_index]['imgs']:
         for img in quiz_data[qs_index]['imgs']:
-            st.image(img, width=128)
+            st.image(img, width=360)
 
     # Radio button with no default selection (initial value is None)
     user_answer = st.radio("Select an answer", quiz_data[qs_index]["options"], index=None, key=f"answer_{qs_index}")
