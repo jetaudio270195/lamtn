@@ -416,7 +416,7 @@ E. A,B,C đúng*
 
 Siêu âm có thể tìm thấy các bệnh lý của thận :
 A. Viêm cầu thận cấp
-B. U mạch thận
+B. U mạch thận*
 C. HC thận hư
 D. A, B đúng
 E. A,B,C đúng
@@ -426,40 +426,40 @@ A. Đường kính ruột thừa > 6 mm
 B. Giảm tín hiệu Doppler trên thành
 C. Tăng tín hiệu Doppler trên thành
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Đau hạ sườn phải cấp có để do :
 A. Áp xe gan
 B. Viêm gan cấp
 C. Viêm phổi – màng phổi
 D. A,B đúng
-E. A,,B,C đúng
+E. A,B,C đúng*
 
 Ruột thừa viêm có thể nhìn thấy hình ảnh trên siêu âm :
 A. Đường kính 7mm
 B. Sỏi phân
 C. Thâm nhiễm mỡ, tụ máu quanh ruột thừa
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Các nguyên nhân đau hạ sườn P :
 A. U gan
 B. Sỏi túi mật
 C. Viêm gan cấp
 D. Viêm ruột thừa dưới gan
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Vai trò của siêu âm trong cấp cứu bụng :
 A. Chẩn đoán xác định
 B. Chẩn đoán phân biệt
 C. Tiên lượng bệnh
 D. Theo dõi bệnh
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Đau hạ sườn phải cấp có thể do :
 A. Viêm ruột thừa dưới manh tràng
 B. Sỏi niệu quản
-C. Loét dạ dày tá tràng
+C. Loét dạ dày tá tràng*
 D. Vỡ lách
 E. Tất cả đúng
 
@@ -468,13 +468,13 @@ A. Đường kính ruột thừa > 6 mm
 B. Thành ruột thừa dày > 4 mm
 C. Mc Burney (+)
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Đau toàn ổ bụng có thể do :
 A. Viêm phúc mạc ruột thừa
 B. Bóc tách ĐM chủ bụng
 C. Bán tắc ruột
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Siêu âm có thể tìm thấy các bệnh lý của thận :
@@ -482,13 +482,13 @@ A. Sỏi thận
 B. Huyết khối TM thận
 C. Nhồi máu thận
 D. A, B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Viêm gan cấp trên siêu âm có thể thấy :
 A. Gan to
 B. Thành túi mật 5 mm
 C. Giãn đường mật thượng lưu
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Hình ảnh siêu âm của viêm túi mật cấp :
@@ -496,18 +496,18 @@ A. Thành túi mật dày > 4mm
 B. Dịch quanh túi mật
 C. Murphy (+)
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Đau hố chậu trái có thể do :
 A. Sỏi niệu quản
 B. Thai ngoài tử cung
 C. Hoại tử mỡ trong ổ bụng
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Các nguyên nhân gây đau hố chậu phải :
 A. Viêm đại tràng
-B. Bệnh Crohn
+B. Bệnh Crohn*
 C. Vỡ lách
 D. Viêm bàng quang cấp
 E. Tất cả sai
@@ -517,10 +517,10 @@ A. Viêm đài bể thận cấp
 B. Cơn đau quặn thận do sỏi
 C. Cơn đau quặn thận do máu cục
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Dấu hiệu chẩn đoán viêm ruột thừa trên siêu âm :
-A. Đường kính ruột thừa > 6 mm
+A. Đường kính ruột thừa > 6 mm*
 B. Đè ép ruột thừa xẹp
 C. Murphy (+)
 D. A,B đúng
@@ -531,20 +531,20 @@ A. Viêm loét dạ dày tá tràng
 B. Viêm tụy cấp
 C. Thủng dạ dày
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Chấn thương bụng trên siêu âm có thể thấy :
 A. Dịch ổ bụng
 B. Khí  ổ bụng
 C. Vỡ gan
-D. Tất cả đúng
+D. Tất cả đúng*
 E. A,C  đúng
 
 Đau hố chậu trái có thể do :
 A. Sỏi niệu quản
 B. Viêm túi thừa đại tràng sigma
 C. Viêm ruột thừa thể dưới manh tràng
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Đau thượng vị cấp có thể liên quan đến :
@@ -552,41 +552,41 @@ A. Dạ dày
 B. Gan T
 C. Đường mật
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Sỏi ống mật chủ trên siêu âm có thể thấy :
 A. Hình ảnh sỏi
 B. Dày thành túi mật
 C. Giãn đường mật thượng lưu
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Đau hố chậu phải cấp tính có thể do :
 A. Viêm ruột thừa
 B. Cơn đau quặn thận
 C. Viêm đại tràng
 D. A,B,C đúng
-E. A,B đúng
+E. A,B đúng*
 
 Đau hạ vị có thể do :
 A. Dọa sẩy thai
 B. Viêm niệu quản đoạn thấp
 C. Viêm ruột thừa tiểu khung
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Đau toàn ổ bụng có thể do :
 A. Nhồi máu ruột
 B. Bóc tách ĐM chủ bụng
 C. Tắc ruột
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Dấu hiệu chẩn đoán viêm ruột thừa trên siêu âm :
 A. Đường kính ruột thừa > 6 mm
 B. Đè ép không xẹp
 C. Giảm tín hiệu Doppler trên thành
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Phân độ chấn thương lách theo ASST 2018, độ III là khi:
@@ -594,17 +594,17 @@ A. Vỡ dưới bao
 B. Tụ máu dưới bao > 50 %
 C. Rách nhu mô sâu >3 cm
 D. Tụ máu trong nhu mô > 5cm
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Các hình thái chấn thương lách :
 A. Đụng giập
 B. Rách bao
 C. Tụ máu dưới bao
 D. Vỡ nhiều mảnh
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương lách theo ASST 2018:
-A. Độ I : rách nhu mô sâu < 1 cm, tụ máu dưới bao < 10%
+A. Độ I : rách nhu mô sâu < 1 cm, tụ máu dưới bao < 10%*
 B. Độ II : rách nhu mô sâu 1-3 cm, tụ máu trong bao 10 - 50%
 C. Độ III : rách nhu mô sâu > 3 cm, tụ máu trong bao > 50%
 D. Độ IV : Rách nhu mô liên quan đến mạch máu gây giảm tưới máu < 25%
@@ -615,17 +615,17 @@ A. Rách nhu mô sau > 3 cm
 B. Tụ máu dưới bao gan > 50 % diện tích bề mặt, tụ máu trong nhu mô >10 cm
 C. Tổn thương mạch máu giới hạn trong nhu mô gan
 D. A,B đúng
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương gan theo ASST 2018 dựa vào :
 A. Tụ máu
 B. Vết rách
 C. Tổn thương mạch máu
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Chấn thương lách cho hình ảnh :
-A. Tụ máu dưới bao lách
+A. Tụ máu dưới bao lách*
 B. Tụ máu trên bao lách
 C. Tụ máu ngoài bao lách
 D. A,B đúng
@@ -636,27 +636,27 @@ A. BN béo phì
 B. BN suy mòn
 C. BN có khí dưới da thành bụng nhiều
 D. A,B đúng
-E. B,C đúng
+E. A,C đúng*
 
 Phân độ chấn thương lách theo ASST 2018:
 A. Độ I : rách bao lách, không rách nhu mô
 B. Độ II : rách nhu mô < 1cm
 C. Độ III : rách nhu mô 1-3 cm
 D. Tất cả đúng
-E. Tất cả sai
+E. Tất cả sai*
 
 Phân độ chấn thương lách theo ASST 2018, độ I là khi:
 A. Rách bao lách
 B. Tụ máu dưới bao < 10 %
 C. Rách nhu mô sâu < 1 cm
 D. A,B đúng
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Trên siêu âm dịch ổ bụng có thể tìm thấy ở:
 A. Quanh gan
 B. Quanh lách
 C. Quanh thận
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C  đúng
 
 Phân độ chấn thương lách theo ASST 2018:
@@ -664,18 +664,18 @@ A. Gồm 5 độ
 B. Độ III : rách nhu mô từ 1-3 cm
 C. Độ V : có chấn thương mạch máu
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Phân độ chấn thương lách theo ASST 2018, độ II là khi:
 A. Rách nhu mô sâu  1-3 cm
 B. Tụ máu dưới bao 10 - 50%
 C. Tụ máu trong nhu mô < 5 cm
 D. A,B đúng
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương gan theo ASST 2018, độ II :
 A. Rách bao gan, rách nhu mô chiều dài > 10cm
-B. Tụ máu dưới bao gan  10-50 % diện tích bề mặt
+B. Tụ máu dưới bao gan  10-50 % diện tích bề mặt*
 C. Tụ máu trong nhu mô > 10 cm
 D. A,B đúng
 E. B,C đúng
@@ -686,12 +686,12 @@ B. Có thể theo dõi đơn thuần
 C. Gồm các tổn thương đụng giập, tụ máu dưới bao, vỡ thận, tổn thương mạch
 máu
 D. A,C đúng
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương lách theo ASST 2018, độ II là khi:
 A. Rách bao lách
 B. Tụ máu dưới bao < 10 %
-C. Rách nhu mô sâu  1 -3 cm
+C. Rách nhu mô sâu  1 - 3 cm*
 D. A,B đúng
 E. Tất cả đúng
 
@@ -699,14 +699,14 @@ Phân độ chấn thương gan theo ASST 2018, độ III :
 A. Rách nhu mô sau > 3 cm
 B. Tụ máu dưới bao gan > 50 % diện tích bề mặt, tụ máu trong nhu mô >10 cm
 C. Không đi kèm tổn thương mạch máu
-D. A,B đúng
+D. A,B đúng*
 E. Tất cả đúng
 
 Chấn thương lách cho hình ảnh :
 A. Tụ máu trước bao lách
 B. Tụ máu trong bao lách
 C. Tụ máu ngoài bao lách
-D. Tụ máu cạnh bao lách
+D. Tụ máu dưới bao lách*
 E. A,B,C đúng
 
 Phân độ chấn thương lách theo ASST 2018 dựa vào tiêu chí:
@@ -714,38 +714,41 @@ A. Rách nhu mô sâu
 B. Tụ máu dưới bao
 C. Liên quan đến mạch máu
 D. Tụ máu trong nhu mô
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương gan theo ASST 2018, độ IV :
 A. Tổn tương mạch máu từ nhu mô gan vào khoang phúc mạc
 B. Rách nhu mô 25-75% một thùy gan
 C. Rách nhu mô <50 % một thùy gan
-D. A,B đúng
+D. A,B đúng*
 E. A,C đúng
 
 Phân độ chấn thương gan theo ASST 2018 có mấy độ:
-A. 4
-B.
-C. 6 D. 7
+A. 3
+B. 4
+C. 5*
+D. 6 
+E. 7
+
 Trên siêu âm dịch ổ bụng có thể tìm thấy ở:
 A. Quanh gan
 B. Quanh lách
 C. Rãnh đại tràng 2 bên
 D. Túi cùng Douglas
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương lách theo ASST 2018, độ I là khi:
 A. Rách bao lách
 B. Tụ máu dưới bao < 10 %
 C. Tụ máu trong nhu mô < 3 cm
-D. A,B đúng
+D. A,B đúng*
 E. Tất cả đúng
 
 Các hình thái chấn thương lách :
 A. Đụng giập
 B. Rách bao
 C. Tụ máu ngoài bao
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Phân độ chấn thương gan theo ASST 2018, độ I :
@@ -753,11 +756,11 @@ A. Rách bao gan
 B. Rách nhu mô sau < 1 cm
 C. Tụ máu dưới bao gan < 10 % diện tích bề mặt
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Phân độ chấn thương gan theo ASST 2018, độ V :
 A. Tổn tương mạch máu từ nhu mô gan vào khoang phúc mạc
-B. Rách nhu mô >75% một thùy gan
+B. Rách nhu mô >75% một thùy gan*
 C. Rách nhu mô >50 % một thùy gan
 D. A,B đúng
 E. A,C đúng
@@ -767,10 +770,10 @@ A. Tụ máu trong nhu mô < 5 cm
 B. Tụ máu dưới bao 10-50 %
 C. Rách nhu mô sâu  1-3 cm
 D. A,B đúng
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Chấn thương lách cho hình ảnh :
-A. Tụ máu dưới bao lách
+A. Tụ máu dưới bao lách*
 B. Tụ máu trong bao lách
 C. Tụ máu ngoài bao lách
 D. A,B đúng
@@ -781,26 +784,26 @@ A. Rách nhu mô liên quan đến mạch máu gây giảm < 25% tưới máu
 B. Rách nhu mô liên quan đến mạch máu gây giảm > 25% tưới máu
 C. Chấn thương mạch máu giới hạn trong bao lách
 D. A,B đúng
-E. A,C đúng
+E. B,C đúng*
 
 Phân độ chấn thương lách theo ASST 2018:
 A. Gồm 5 độ
 B. Độ I : rách nhu mô < 1cm
 C. Độ II : rách nhu mô từ 1-3 cm
 D. Độ III : rách nhu mô > 3 cm
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương gan theo ASST 2018, độ I :
 A. Rách bao gan
 B. Rách nhu mô sau < 1 cm
 C. Không có tụ máu dưới bao gan
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Phân độ chấn thương lách theo ASST 2018, độ I KHÔNG có:
 A. Rách bao lách
 B. Tụ máu dưới bao
-C. Tụ máu trong nhu mô
+C. Tụ máu trong nhu mô*
 D. Rách nhu mô sâu
 E. Tất cả tiêu chí đều có
 
@@ -809,40 +812,40 @@ A. Vỡ nhiều mảnh
 B. Chấn thương mạch máu giới hạn trong bao lách
 C. Chấn thương mạch máu vượt quá giới hạn của lách đến khoang phúc mạc
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Phân độ chấn thương gan theo ASST 2018, độ V :
 A. Rách nhu mô 25-75% một thùy gan
 B. Tổn tương tĩnh mạch chủ dưới
 C. Tổn thương tĩnh mạch trên gan
 D. A,B đúng
-E. A,B,C đúng
+E. B,C đúng*
 
 Khảo sát chấn thương thận trên siêu âm :
 A. Bất thường bờ thận
 B. Vùng âm vang không đều
 C. Tụ máu, dịch
 D. Doppler mạch máu
-E. Tất cả đúng
+E. Tất cả đúng*
 
 Phân độ chấn thương lách theo ASST 2018, độ III là khi:
 A. Tụ máu dưới bao > 50 %
 B. Tụ máu trong nhu mô > 5cm
 C. Vỡ dưới bao
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Phân độ chấn thương gan theo ASST 2018, độ II :
 A. Rách nhu mô 1-3cm, chiều dài < 10cm
 B. Tụ máu trong nhu mô < 10cm
 C. Tụ máu dưới bao gan 10 - 50 % diện tích bề mặt
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Phân độ chấn thương gan theo ASST 2018 :
 A. Độ I : rách bao gan, không có tụ máu dưới bao gan
 B. Độ II : tụ máu dưới bao gan < 10%, tụ máu trong nhu mô < 10 cm
-C. Độ III : tụ máu trong nhu mô > 10 cm, rách nhu mô > 3cm
+C. Độ III : tụ máu trong nhu mô > 10 cm, rách nhu mô > 3cm*
 D. Độ IV : không đi kèm tổn thương mạch máu
 E. Tất cả sai
 
@@ -850,18 +853,18 @@ Phân độ chấn thương gan theo ASST 2018, độ V :
 A. Tổn tương tĩnh mạch chủ dưới
 B. Tổn thương tĩnh mạch trên gan
 C. Tổn thương TM gan T, TM gan P
-D. A,B đúng
+D. A,B đúng*
 E. A,C đúng
 
 Dấu hiệu chấn thương ruột, mạc treo trên siêu âm :
 A. Có khí ngoài đường tiêu hóa
 B. Dịch khu trú khoang  phúc mạc
 C. Thành ruột mỏng
-D. A,B  đúng
+D. A,B đúng*
 E. Tất cả đúng
 
 Phân độ chấn thương gan theo ASST 2018, độ IV :
-A. Rách nhu mô 25-75% một thùy gan
+A. Rách nhu mô 25-75% một thùy gan*
 B. Tổn thương mạch máu giới hạn trong nhu mô gan
 C. Tụ máu dưới bao gan > 50 % diện tích bề mặt, tụ máu trong nhu mô >10 cm
 D. A,B đúng
@@ -871,37 +874,39 @@ Phân độ chấn thương lách theo ASST 2018, độ II là khi:
 A. Rách nhu mô sâu  1-3 cm
 B. Tụ máu dưới bao 10 - 50%
 C. Tụ máu trong nhu mô < 3 cm
-D. A,B đúng
+D. A,B đúng*
 E. Tất cả đúng
 
 Xác định vị trí nhau bám dựa vào :
 A. Bờ trên bánh nhau
 B. Bờ dưới bánh nhau
 C. Vị trí đáy tử cung
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Có mấy  phân loại nhau tiền đạo :
 A. 4 loại : O, I, II, III
 B. 3 loại : I, II, II
-C. 4 loại : I, II, III, IV
+C. 4 loại : I, II, III, IV*
 D. 3 loại : O, I , II
 E. Tất cả sai
 
 Nhau tiền đạo thuộc nhau nhóm mấy :
-A. 2
-B.
-C. Có thể ở bất cứ nhóm nào
-D. Không thuộc nhóm nào
+A. 1
+B. 2
+C. 3
+D. Có thể ở bất cứ nhóm nào
+E. Không thuộc nhóm nào
+
 Bánh nhau có những vòng tròn canxi hóa, đường tăng âm đi từ bản đệm đến bản đáy được đánh giá là nhau trưởng thành :
 A. Độ O
 B. Đô I
 C. Độ II
-D. Độ III
+D. Độ III*
 E. Độ IV
 
 Sản phụ được đo nước ối có AFI = 12 cm, đánh giá nước ối:
-A. Bình thường
+A. Bình thường*
 B. Dư ối
 C. Đa ối
 D. Thiểu ối
@@ -912,17 +917,17 @@ A. Hình ảnh bão tuyết nhiều cấu trúc nang nhỏ lấp đầy lòng t�
 B. Tín hiệu Doppler : giảm tưới máu, RI cao
 C. Có thể nhìn thấy nang hoàng thể
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Thai trứng toàn phần không thể nhìn thấy :
 A. Nang hoàng thể
-B. Phôi hoặc thai
+B. Phôi hoặc thai*
 C. Nhiều nang nhỏ trong lòng tử cung
 D. A, B đúng
 E. A,C đúng
 
 Hình ảnh gián tiếp của thai ngoài tử cung trên siêu âm :
-A. Dày nội mạc tử cung
+A. Dày nội mạc tử cung*
 B. Dấu hiệu vòng ống
 C. Dấu hiệu vòng lửa
 D. A, B đúng
@@ -932,24 +937,25 @@ Dấu hiệu vòng lửa trên siêu âm có thể thấy ở :
 A. Thai ngoài tử cung
 B. Nang hoàng thể
 C. Nang lạc nội mạc tử cung
-D. A,B đúng
+D. A,B đúng*
 E. A,C đúng
 
-Thai trứng có hình ảnh : A. Hình ảnh bão tuyết
+Thai trứng có hình ảnh :
+A. Hình ảnh bão tuyết
 B. Hình ảnh dị tật thai
 C. Dấu hiệu vòng lửa
-D. A,B đúng
+D. A,B đúng*
 E. A,B,C đúng
 
 Vị trí nhau bám được chia làm mấy nhóm :
 A. 3 nhóm : 0,1,2
 B. 4 nhóm : 0,1,2,3
-C. 3 nhóm : 1,2,3
+C. 3 nhóm : 1,2,3*
 D. 4 nhóm : 1,2,3,4
 E. Tất cả sai
 
 Nhau tiền đạo loại I có tính chất sau:
-A. Nhau bám thấp, nằm gần lỗ trong cổ tử cung
+A. Nhau bám thấp, nằm gần lỗ trong cổ tử cung*
 B. Nhau bám mép (đến lỗ trong cổ tử cung nhưng không tràn qua)
 C. Một phần bánh nhau tràn qua lỗ trong cổ tử cung.
 D. Nhau tiền đạo trung tâm
@@ -960,19 +966,19 @@ A. Bờ trên bánh nhau
 B. Bờ dưới bánh nhau
 C. Vị trí lỗ trong cổ tử cung
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Nhau nhóm 3, loại IV tương ứng :
 A. Nhau bám thấp
 B. Nhau bám mép
-C. Nhau tiền đạo trung tâm
+C. Nhau tiền đạo trung tâm*
 D. Nhau tiền đạo bán trung tâm
 E. Tất cả sai
 
 Nhau trưởng thành độ II là :
 A. Có vết hằn bản đệm
 B. Bản đệm lượn sóng, nhấp nhô
-C. Tăng âm dấu phẩy từ bản đệm đi vào mô
+C. Tăng âm dấu phẩy từ bản đệm đi vào mô*
 D. Canxi hóa bản đáy
 E. Phản âm rải rác vài điểm sáng vôi hóa
 
@@ -980,14 +986,14 @@ Phương pháp đo nước ối theo AFI :
 A. Chọn khoang ối sâu nhất không chứa dây rốn và các phần thai
 B. Đo theo phương thẳng đứng
 C. Cộng 4 vùng lại
-D. Tất cả đúng
+D. Tất cả đúng*
 E. A,B đúng
 
 Sản phụ được đo nước ối có MPV = 2 cm, đánh giá nước ối:
 A. Bình thường
 B. Dư ối
 C. Đa ối
-D. Thiểu ối
+D. Thiểu ối*
 E. Cạn ối
 
 Hình ảnh thai trứng bán phần trên siêu âm :
@@ -995,17 +1001,17 @@ A. Bánh nhau rất dày gồm nhiều nang nhỏ
 B. Hình ảnh phôi, thai nhi có thể sống hoặc chết
 C. Doppler : tăng tưới máu, RI thấp
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Hình ảnh gián tiếp của thai ngoài tử cung trên siêu âm :
 A. Dày nội mạc tử cung
 B. Nang mang rụng
 C. Túi thai giả
 D. A, B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Dấu hiệu vòng ống trong thai ngoài tử cung trên siêu âm :
-A. Vòng hồi âm dày
+A. Vòng hồi âm dày*
 B. Vòng hồi âm mỏng
 C. Tương đương hồi âm nang hoàng thể
 D. A.C đúng
@@ -1013,13 +1019,13 @@ E. Tất cả sai
 
 Khi chẩn đoán xác định thai ngoài tử cung khi :
 A. Khối cạnh tử cung có dấu hiệu vòng lửa
-B. Khối cạnh tử cung có phôi và tim đang hoạt động bên trong
+B. Khối cạnh tử cung có phôi và tim đang hoạt động bên trong*
 C. Khối cạnh tử cung có yolksac bên trong
 D. Tất cả các hình ảnh trên
 E. Không thể chẩn đoán xác định thai ngoài tử cung trên siêu âm
 
 Nhau bám nhóm 3 :
-A. Tương ứng với nhau tiền đạo, bờ trên bánh nhau vượt lên trên thấp hơn ½ dưới thân tử cung
+A. Tương ứng với nhau tiền đạo, bờ trên bánh nhau vượt lên trên thấp hơn ½ dưới thân tử cung*
 B. Bờ trên bánh nhau vượt qua vị trí đáy tử cung hay ngay vị trí đáy
 C. Bờ trên bánh nhau vượt lên trên ½ thân tử cung hoặc ở ngang
 D. Bờ trên bánh nhau tiến đến lỗ trong cổ tử cung
@@ -1030,22 +1036,25 @@ A. Tim thai
 B. Bánh nhau
 C. Đo chỉ số sinh học
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Độ trưởng thành của bánh nhau có mấy độ:
 A. 3 độ : 0,1,2
 B. 3 độ : 1,2,3
-C. 4 độ : 0,1,2,3
+C. 4 độ : 0,1,2,3*
 D. 4 độ : 1,2,3,4
 E. Tất cả sai
 
 Có mấy phương pháp đánh giá nước ối ?
-A. 2
-B.
-C. 4 D. 5
+A. 1
+B. 2*
+C. 3
+D. 4 
+E. 5
+
 Kỹ thuật đánh giá nước ối bằng AFI:
 A. Đo theo hướng nghiêng 45 độ
-B. Đo theo hướng thẳng đứng
+B. Đo theo hướng thẳng đứng*
 C. Đo theo hướng nghiêng 60 độ
 D. Đo theo hướng ngang bụng
 E. Tất cả sai
@@ -1053,12 +1062,12 @@ E. Tất cả sai
 Sản phụ được đo nước ối có AFI = 25 cm, đánh giá nước ối:
 A. Bình thường
 B. Dư ối
-C. Đa ối
+C. Đa ối*
 D. Thiểu ối
 E. Cạn ối
 
 Khi đánh giá đáp ứng điều trị ở BN thai trứng, SA Doppler :
-A. RI tăng lên, đáp ứng tốt
+A. RI tăng lên, đáp ứng tốt*
 B. RI giảm đi, đáp ứng tốt
 C. RI tăng lên, đáp ứng kém
 D. RI giảm đi, không đáp ứng
@@ -1066,7 +1075,7 @@ E. RI không có vai trò đánh giá
 
 Thai ngoài tử cung thường gặp ở vị trí :
 A. Buồng trứng
-B. Vòi trứng
+B. Vòi trứng*
 C. Đoạn kẽ
 D. Cổ tử cung
 E. Trong ổ bụng
@@ -1076,25 +1085,25 @@ A. Tubal ring sign
 B. Ring of fire sign
 C. Doppler tăng tưới máu, RI thấp
 D. A,B đúng
-E. A,B,C đúng
+E. A,B,C đúng*
 
 Đánh giá nhóm của bánh nhau dựa vào :
 A. Lỗ trong cổ tử cung
 B. Bờ trên
 C. Bờ dưới
 D. A,B đúng
-E. Tất cả tiêu chí trên
+E. Tất cả tiêu chí trên*
 
 Các chỉ số cần đánh giá khi siêu âm thai cơ bản :
 A. Tim thai
 B. Đo ĐM rốn
 C. Đo chỉ số sinh học
 D. A,B đúng
-E. A,C đúng
+E. A,C đúng*
 
 Bánh nhau có bản đệm lượn sóng, nhấp nhô, mô nhau rải rác vài điểm sáng vôi hóa được đánh giá là nhau trưởng thành :
 A. Độ O
-B. Đô I
+B. Đô I*
 C. Độ II
 D. Độ III
 E. Độ IV
@@ -1103,33 +1112,33 @@ Phương pháp đo khoang ối lớn nhất là :
 A. Chia tử cung thành 4 vùng, đo độ sâu khoang nơi có chưa dây rốn và phần thai
 B. AFI = 5 cm, kết luận thiểu ối
 C. AFI = 2 cm kết luận thiểu ối
-D. MVP = 2 cm kết luận thiểu ối
+D. MVP = 2 cm kết luận thiểu ối*
 E. Tất cả sai
 
 Đánh giá nước ối khi đo MVP = 9cm có thể kết luận :
 A. Ối bình thường
 B. Thiểu ối
 C. Thừa ối
-D. Đa ối
+D. Đa ối*
 E. Cạn ối
 
 Sản phụ được đo nước ối có AFI = 4 cm, đánh giá nước ối:
 A. Bình thường
 B. Dư ối
 C. Đa ối
-D. Thiểu ối
+D. Thiểu ối*
 E. Cạn ối
 
 Tín hiệu Doppler trong thai trứng toàn phần :
 A. Tăng tưới máu, RI cao
 B. Giảm tưới máu, RI thấp
-C. Tăng tưới máu, RI thấp
+C. Tăng tưới máu, RI thấp*
 D. Giảm tưới máu, RI cao
 E. Tăng tưới máu, RI bình thường
 
 Trên siêu âm nhìn thấy nhiều nang nhỏ vài mm trong lòng tử cung, có hình ảnh nang hoàng thể, hình ảnh phôi thai, có thể kết luận :
 A. Thai trứng
-B. Thai trứng bán phần
+B. Thai trứng bán phần*
 C. Thai trứng toàn phần
 D. Tất cả đúng
 E. Tất cả sai
@@ -1139,18 +1148,18 @@ A. Túi thai giả có viền hồi năm dày, nằm giữa lòng tử cung
 B. Túi thai thật có viền hồi âm dày, nằm giữa lòng tử cung
 C. Túi thai giả không có viền hồi năm dày, nằm lệch một bên nội mạc tử cung
 D. Túi thai thật có viền hồi âm mỏng, nằm lệch một bên nội mạc tử cung
-E. Tất cả sai
+E. Tất cả sai*
 
 Nhau nhóm 2 là :
 A. Bờ dưới bánh nhau vượt qua vị trí đáy hay ngay vị trí đáy
 B. Bờ dưới bánh nhau  trên ½ thân hay ngang thân
 C. Là nhau bám mép, bờ dưới đến lỗ trong cổ tử cung nhưng không tràn qua
 D. Là nhau tiền đạo, bờ dưới thấp hơn ½ dưới thân tử cung
-E. Tất cả sai
+E. Tất cả sai*
 
 Hơi sau phúc mạc:
 A. Hay gặp nhất sau nội soi tá tràng.
-B. Thường thấy khí bao quanh thận phải.
+B. Thường thấy khí bao quanh thận phải.*
 C. Nguyên nhân khác thường gặp là do tổn thương thủng đại tràng đoạn di động.
 D. Có thể nguyên nhân do sinh thiết u tá tràng
 
@@ -1158,35 +1167,34 @@ Tắc ruột cơ năng (liệt ruột):
 A. Là những rối loạn mạn tính dạ dày- ruột.
 B. Hiếm khi gặp trong viêm phúc mạc.
 C. Xảy ra sau mổ viêm ruột thừa, viêm tụy mạn, thủng túi mật.
-D. Xảy ra sau cơn đau quặn thận; giảm Kali máu
+D. Xảy ra sau cơn đau quặn thận; giảm Kali máu*
 
 Phân chia hai loại theo sinh lý bệnh, tắc ruột non gồm:
 A. Tắc ruột cơ năng và tắc ruột do bít
 B. Tắc ruột cơ học và tắc ruột do nghẹt
 C. Tắc ruột cơ năng và tắc ruột cơ học
-D. Tắc ruột do bít và tắc ruột do nghẹt
+D. Tắc ruột do bít và tắc ruột do nghẹt*
 
 Đặc điểm hình ảnh tắc ruột non trên CT:
 A. Các quai ruột trên chỗ tắc xẹp, các quai ruột dưới chỗ tắc giãn
 B. Trong tắc ruột do nghẹt, đoạn ruột xoắn thường bị giãn chứa đầy dịch, phân bố li tâm khỏi chỗ xoắn.
-C. Vị trí tắc: là điểm chuyển tiếp giữa đoạn ruột giãn và đoạn ruột xẹp. Có thể có hình ảnh gợi ý là dấu hiệu phân ruột (feces sign) ở đoạn ruột giãn ngay trên điểm chuyển tiếp.
+C. Vị trí tắc: là điểm chuyển tiếp giữa đoạn ruột giãn và đoạn ruột xẹp. Có thể có hình ảnh gợi ý là dấu hiệu phân ruột (feces sign) ở đoạn ruột giãn ngay trên điểm chuyển tiếp.*
 D. Trong tắc ruột do bít, hai điểm đầu và cuối của đoạn ruột xoắn thuôn nhỏ cùng tụ lại ở chỗ xoắn có hình mỏ chim kép (double beak sign).
 
 Hình ảnh CT bụng tắc đại tràng do bít có nguy cơ hoại tử:
 A. Đại tràng giãn, thành mỏng có ngấm thuốc
 B. Kèm theo giãn ruột non
-C. Thành dày và không ngấm thuốc
+C. Thành dày và không ngấm thuốc*
 D. U chít hẹp lòng đại tràng
 
 Đặc điểm hình ảnh lồng ruột ở người lớn:
 A. Trên CT: Ở đầu gần, có thể thấy điểm dẫn (là nguyên nhân gây lồng ruột)
-B. Trên CT: Ở đầu gần của lồng ruột, sẽ có hai vòng tăng tỷ trọng / tăng ngấm thuốc đồng tâm, được hình thành bởi ruột trong và mép gấp của ruột ngoài
+B. Trên CT: Ở đầu gần của lồng ruột, sẽ có hai vòng tăng tỷ trọng / tăng ngấm thuốc đồng tâm, được hình thành bởi ruột trong và mép gấp của ruột ngoài*
 C. Xquang bụng hoặc chụp lưu thông ruột hay chụp khung đại tràng có nhiều vai trò trong việc chẩn đoán
 D. Siêu âm có thể thấy khối lồng với các dấu hiệu hình bia bắn trên các lớp cắt dọc, và hình giả thận hoặc bánh mì kẹp trên các lớp cắt ngang
 
 Kỹ thuật chẩn đoán hình ảnh nào là tốt nhất để đánh giá lồng ruột ở người lớn
-A. CT scan
+A. CT scan*
 B. Siêu âm
 C. X quang
 D. MRI
-
