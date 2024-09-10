@@ -28,14 +28,6 @@ def load_data():
             # Add more questions as needed
         ]
 
-# Write updated quiz data back to tn.txt
-def save_data(data):
-    with open('tn.txt', 'w', encoding='utf8') as f:
-        for entry in data:
-            question = entry['question']
-            options = [f"{o}{'*' if o == entry['correct'] else ''}" for o in entry['options']]
-            f.write(f"{question}\n" + "\n".join(options) + "\n\n")
-
 # Store the quiz data in session_state
 if 'quiz_data' not in st.session_state:
     st.session_state.quiz_data = load_data()
@@ -55,21 +47,7 @@ if 'checkbox_checked' not in st.session_state:
 st.set_page_config(layout="wide")
 
 st.title("Làm trắc nghiệm")
-col1, col2, col3 = st.columns([1, 10, 1])
-
-# CSS to style the buttons to fill the entire column
-st.markdown(
-    """
-    <style>
-    .full-size-button {
-        width: 100%;
-        height: 100px; /* You can adjust the height as needed */
-        font-size: 20px; /* Adjust the font size if needed */
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+col1, col2, col3 = st.columns([1, 10, 1], vertical_alignment='center')
 
 # Handle previous and next buttons
 with col1:
