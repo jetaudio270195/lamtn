@@ -97,4 +97,4 @@ with col2:
             else:
                 st.error("Wrong!")
         else:
-            st.warning("Please select an answer before 
+            st.warning("Please select an answer before check")
