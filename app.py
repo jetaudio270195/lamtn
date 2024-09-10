@@ -97,30 +97,4 @@ with col2:
             else:
                 st.error("Wrong!")
         else:
-            st.warning("Please select an answer before checking.")
-
-    # Checkbox for editing answer, controlled by session state
-    if st.checkbox("Sửa đáp án", value=st.session_state.checkbox_checked):
-        if not st.session_state.close_expander:  # Check if expander should stay open
-            with st.expander("Chọn đáp án đúng mới", expanded=True):
-                # Check if correct answer is in the options list
-                if quiz_data[qs_index]['correct'] in quiz_data[qs_index]['options']:
-                    # Pre-select the correct answer if it exists
-                    new_correct_answer = st.selectbox("Chọn đáp án đúng", quiz_data[qs_index]['options'], index=quiz_data[qs_index]['options'].index(quiz_data[qs_index]['correct']))
-                else:
-                    # If no correct answer exists, do not pre-select anything
-                    new_correct_answer = st.selectbox("Chọn đáp án đúng", quiz_data[qs_index]['options'], index=0)
-
-                if st.button("Cập nhật đáp án"):
-                    # Update the correct answer in the quiz data stored in session_state
-                    st.session_state.quiz_data[qs_index]['correct'] = new_correct_answer
-                    save_data(st.session_state.quiz_data)  # Save the updated data to the file
-                    st.success(f"Đáp án đúng đã được cập nhật thành: {new_correct_answer}")
-                    # Close the expander after updating
-                    st.session_state.close_expander = True
-                    # Uncheck the checkbox automatically
-                    st.session_state.checkbox_checked = False
-    else:
-        # If the checkbox is unchecked, reset the expander state
-        st.session_state.close_expander = False
-        st.session_state.checkbox_checked = False
+            st.warning("Please select an answer before 
