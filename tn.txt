@@ -65,10 +65,10 @@ C. Xuất huyết khoang dưới nhện
 D. Dập não*
 
 Các loại tổn thương vỡ hộp sọ bao gồm (ngoại trừ):
-a. Nứt sọ dạng đường
-b. Lún sọ
-c. Phối hợp
-d. Chèn ép khu trú*
+A. Nứt sọ dạng đường
+B. Lún sọ
+C. Phối hợp
+D. Chèn ép khu trú*
 
 Hình ảnh xuất huyết cấp trên CT biểu hiện bằng hình ảnh … so với nhu mô não
 A. Tăng đậm độ.*
@@ -117,7 +117,6 @@ A. Xquang qui ước.
 B. Chụp cắt lớp điện toán.*
 C. Chụp cộng hưởng từ.
 D. Chụp mạch máu.
- 
 
 Hãy cho biết đây là loại tổn thương nào?<img>img/1.jpg</img>
 A. Xuất huyết dưới nhện.*
