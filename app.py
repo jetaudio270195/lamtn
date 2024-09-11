@@ -51,8 +51,19 @@ if 'checkbox_checked' not in st.session_state:
 
 st.set_page_config(layout="wide")
 
+# hide topbar
+st.markdown("""
+<style>
+    header {
+            visibility: hidden;
+    }
+</style>""",
+    unsafe_allow_html=True
+)
+
 st.title("Trắc Nghiệm Sau Đại Học Y Khoa Phạm Ngọc Thạch")
 st.write("Liên hệ: jetaudio.media@gmail.com")
+
 col1, col2, col3 = st.columns([1, 10, 1], vertical_alignment='center')
 
 # Handle previous and next buttons
