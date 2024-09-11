@@ -44,8 +44,7 @@ Hình ảnh tụ máu ngoài màng cứng trên CT scan. NGOẠI TRỪ:
 A. Tụ máu ngoài màng cứng thường kèm theo nứt sọ vùng đối bên*
 B. Khoảng 10% các ca tụ máu ngoài màng cứng do tổn thương động mạch não giữa
 C. Thường gặp ở một bên
-D. Tụ máu ngoài màng cứng thường kèm theo tụ máu dưới màng cứng đối
-bên
+D. Tụ máu ngoài màng cứng thường kèm theo tụ máu dưới màng cứng đối bên
 
 Tổn thương động mạch màng não giữa trong cơ chế chấn thương của tụ máu ngoài màng cứng chiếm bao nhiêu phần trăm:
 A. 10%
@@ -121,10 +120,10 @@ D. Chụp mạch máu.
  
 
 Hãy cho biết đây là loại tổn thương nào?<img>img/1.jpg</img>
-A. Xuất huyết dưới nhện.
+A. Xuất huyết dưới nhện.*
 B. Xuất huyết trong não thất.
 C. Tổn thương sợi trục lan toả. 
-D. Tụ máu ngoài màng cứng.*
+D. Tụ máu ngoài màng cứng.
 
 Chọn câu ĐÚNG, các mặt cắt trong siêu âm bụng :
 A. Mặt cắt số I lấy  túi mật làm mốc
@@ -1239,7 +1238,7 @@ B. TM cửa
 C. TM gan T 
 D. TM gan P 
 E. TM gan giữa
- 
+
 Chi tiết gì ? <img>img/9.jpg</img> 
 A. Lách 
 B. Tụy 
@@ -1365,7 +1364,7 @@ B. Phía sau BN
 C. Bên T BN 
 D. Bên P BN 
 E. Tất cả sai
- 
+
 Siêu âm đang ở mặt cắt ngang hạ vị mũi tên trên màn hình tươn ứng: <img>img/27.jpg</img> 
 A. Phía trước BN *
 B. Phía sau BN 
