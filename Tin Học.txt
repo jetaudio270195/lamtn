@@ -1,0 +1,1417 @@
+Trong soạn thảo văn bản Word, muốn lưu hồ sơ với một tên khác, ta thực hiện:
+A. File - SaveB. File - Save As*
+C. Window - Save
+D. Window - Save As
+
+Trong Winword, để mở một tài liệu đã được soạn thảo thì:
+A. Chọn menu lệnh Edit - OpenB. Chọn menu lệnh File - Open*
+C. Cả 2 câu a. b. đều đúng
+D. Cả 2 câu a. b. dều sai
+
+Trong WinWord, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về đầu văn bản:
+A. Shift+Home
+B. Atl+HomeC. Ctrl+Home*
+D. Ctrl+Alt+Home
+
+Trong soạn thảo Word, muốn trình bày văn bản trong khổ giấy theo hướng ngang ta chọn mục:
+A. Portrait
+B. Right
+C. LeftD. Landscape*
+
+Trong soạn thảo văn bản Word, để đóng một hồ sơ đang mở, ta thực hiện:A. File - Close*
+B. File - Exit
+C. File - New
+D. File - Save
+
+Trong soạn thảo Word, muốn chèn các kí tự đặc biệt vào văn bản, ta thực hiện:
+A. View - Symbol
+B. Format - Symbol
+C. Tools - SymbolD. Insert - Symbol*
+
+Trong khi soạn thảo văn bản, nếu kết thúc 1 đoạn (Paragraph) và muốn sang 1 đoạn mới:
+A. Bấm tổ hợp phím Ctrl - Enter
+B. Bấm phím EnteC. Bấm tổ hợp phím Shift - Enter*
+D. Word tự động, không cần bấm phím
+
+Trong khi soạn thảo văn bản, nếu khi kết thúc 1 đoạn văn mà ta muốn sang 1 trang mới thì:A. Bấm tổ hợp phím Ctrl - Enter*
+B. Bấm phím Enter
+C. Bấm tổ hợp phím Shift - Enter
+D. Bấm tổ hợp phím Alt - Enter
+
+Trong Word, để soạn thảo một công thức toán học phức tạp, ta thường dùng công cụ:A. Microsoft Equation*
+B. Ogranization Art
+C. Ogranization Chart
+D. Word Art
+
+Trong Word, để sao chép một đoạn văn bản vào Clipboard, ta đánh dấu đoạn văn, sau đó:
+A. Click phải chọn - Copy
+B. Bấm tổ hợp phím Ctrl - CC. Cả 2 câu a. b. đều đúng*
+D. Cả 2 câu a. b. đều
+
+Trong Word, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải, ...; ta có thể khai báo đơn vị đo:A.Centimeters*
+B. Đơn vị đo bắt buộc là Inches
+C. Đơn vị đo bắt buộc là Points
+D. Đơn vị đo bắt buộc là Picas
+
+Trong soạn thảo Word, để tạo một bảng (Table), ta thực hiện:
+A. Tools - Insert TableB. Insert - Insert Table*
+C. Format - Insert Table
+D. Table - Insert Table
+
+Trong soạn thảo Word, công dụng của tổ hợp Ctrl - F là:
+A. Tạo tệp văn bản mới
+B. Lưu tệp văn bản vào đĩaC. Chức năng tìm kiếm trong soạn thảo*
+D. Định dạng trang
+
+Một tập hợp các ký hiệu và những quy tắc dùng để biểu diễn và tính toán giá trị các số được gọi là:
+A. Phép tính.B. Hệ đếm.*
+C. Quy ước.
+
+Hệ đếm thông dụng hay được sử dụng và biết đến là:
+A. Hệ đếm thập phân.
+B. Hệ đếm La mã.C. Hệ đếm thập phân và hệ đếm La mã.*
+
+Hệ đếm thập phân sử dụng chữ số cơ sở nào:A. Từ 0 đến 9.*
+B. Từ A đến Z.
+C. Từ a đến z.
+
+Hệ đếm nhị phân dùng trong máy tính hiện nay gồm 2 chữ số nào:A. 0 và 1.*
+B. 1 và 2.
+C. 0 và 2.
+
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25, tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết quả:
+A. 0B. 5*
+C. #VALUE!
+D. #NAME!
+
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi "Tin hoc", ô B2 có giá trị số 2015. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả:A. #VALUE!*
+B. Tin hoc
+C. 2008
+D. Tin hoc2008
+
+Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính?
+A. Shift + Home
+B. Alt + HomeC. Ctrl + Home*
+D. Shift + Ctrl + Home
+
+Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ:
+A. Dấu chấm hỏi (?)B. Dấu bằng (=)*
+C. Dấu hai chấm (:)
+D. Dấu đô la ($)
+
+Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?
+A. Chương trình bảng tính bị nhiễm virus.
+B. Công thức nhập và Excel thông báo lỗi.
+C. Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số.D. Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số.*
+
+Trong khi làm việc với Excel, muốn lưu bảng tính hiện thời vào đĩa, ta thực hiện:
+A. Window - Save
+B. Edit - Save
+C. Tools - SaveD. File - Save*
+
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị số không (0), tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả:
+A. 0
+B. 5
+C. #VALUE!D. #DIV/0!*
+
+Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?
+A. B$1:D$10
+B. $B1:$D10
+C. B$1$:D$10$D. $B$1:$D$10*
+
+Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?
+A. #B. <>*
+C. ><
+D. &
+
+Trong soạn thảo Word, muốn trình bày văn bản dạng cột (dạng thường thấy trên các trang báo và tạp chí), ta thực hiện:
+A. Insert - Column
+B. View - ColumnC. Page layout - Column*
+D. Table - Column
+
+Trong soạn thảo văn bản Word, công dụng của tổ hợp phím Ctrl + O là:
+A. Mở một hồ sơ mới
+B. Đóng hồ sơ đang mởC. Mở một file đã có*
+D. Lưu hồ sơ vào đĩa
+
+Khi đang soạn thảo văn bản Word, muốn phục hồi thao tác vừa thực hiện thì bấm tổ hợp phím:A. Ctrl – Z*
+B. Ctrl – X
+C. Ctrl - V
+D. Ctrl - Y
+
+Trong khi làm việc với Word, tổ hợp phím tắt nào cho phép chọn tất cả văn bản đang soạn thảo:A. Ctrl + A*
+B. Alt + A
+C. Alt + F
+D. Ctrl + F
+
+Trong soạn thảo văn bản Word, công dụng của tổ hợp phím Ctrl - H là:
+A. Tạo tệp văn bản mớiB. Chức năng thay thế trong soạn thảo*
+C. Định dạng chữ hoa
+D. Lưu tệp văn bản vào đĩa
+
+Trong chế độ tạo bảng (Table) của phần mềm Word, muốn tách một ô thành nhiều ô, ta thực hiện:
+A. Table - Cells
+B. Insert - Merge Cells
+C. Table - Merge CellsD. Table tool- Layout- Split Cells (gộp thì Merge Cells)*
+
+Trong MS Word, công dụng của tổ hợp phím Ctrl - S là:
+A. Xóa tệp văn bản
+B. Chèn kí hiệu đặc biệtC. Lưu tệp văn bản vào đĩa*
+D. Tạo tệp văn bản mới
+
+Khi làm việc với Word xong, muốn thoát khỏi, ta thực hiện:
+A. View - Exit
+B. Edit - Exit
+C. Window - ExitD. File - Exit*
+
+Trong bảng tính Excel, giao của một hàng và một cột được gọi là?
+A. Dữ liệu.B. Ô.*
+C. Trường.
+D. Công thức.
+
+Giả sử ngày hệ thống của máy tính là: 8/18/2008, khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận được kết quả là:
+A. 0
+B. #VALUE!
+C. #NAME!D. 8/17/2008*
+
+Trong Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả:
+A. 10
+B. 3
+C. #ValueD. 1*
+
+Trong bảng tính Excel, tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức đến ô G6 thì sẽ có công thức là:
+A. E7*F7/100
+B. B6*C6/100C. E6*F6/100*
+D. E2*C2/100
+
+Có bao nhiêu cách để tạo mới (New) một văn bản Word?
+A. 1B. 2*
+C. 3
+
+Tính năng Print Preview được sử dụng để?A. Xem lại toàn bộ văn bản trước khi in*
+B. In văn bản ra máy in
+C. Cả A và B đều
+
+Khi soạn thảo văn bản trong Winword, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:
+A. ESC
+B. Ctrl
+C. CapsLockD. Tab*
+
+Trong soạn thảo Winword, muốn đánh số trang cho văn bản, ta thực hiện:A. Insert - Page Numbers*
+B. View - Page Numbers
+C. Tools - Page Numbers
+D. Format - Page Numbers
+
+Trong soạn thảo văn bản Word, muốn tạo một trang mới, ta thực hiện:
+A. Insert - New
+B. View - NewC. File - New*
+D. Edit - New
+
+Khi soạn thảo văn bản xong, để in văn bản ra giấy:
+A. Chọn menu lệnh File - Print
+B. Bấm tổ hợp phím Ctrl - PC. Các câu a. và b. đều đúng.*
+D. Các câu a. và b. đều
+
+Trong WinWord, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về cuối văn bản:
+A. Shift + End
+B. Alt + EndC. Ctrl + End*
+D. Ctrl + Alt + End
+
+Thao tác Shift + Enter có chức năng gì:A. Xuống hàng chưa kết thúc Paragrahp*
+B. Xuống một trang màn hình
+C. Nhập dữ liệu theo hàng dọc
+D. Tất cả đều
+
+Để gạch dưới mỗi từ một nét đơn ta có thể dùng tổ hợp phím nào:
+A. Ctrl + Shift + DB. Ctrl + Shift + W*
+C. Ctrl + Shift + A
+D. Ctrl + Shift + K
+
+Lệnh Ctrl + F trong Excel có tác dụng gì?A. Tìm kiếm một chuỗi ký tự nào đó.*
+B. Thay thế chuỗi ký tự này bằng ký tự khác.
+C. Xoá bỏ các ký tự vừa tìm được.
+
+Trong bảng tính Excel, tại ô A2 gõ vào công thức =MAX-(30,10,65,5) thì nhận được kết quả tại ô A2 là:
+A. 30
+B. 5C. 65*
+D. 110
+
+Trong Excel, tại ô A2 có giá trị là chuỗi "Tinhoc"; tại ô C2 gõ vào công thức =A2 thì nhận được kết quả tại ô C2:
+A. #Value
+B. TINHOC
+C. TinHocD. Tinhoc*
+
+Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong"; tại ô B2 gõ vào công thức =UPPER(A2) thì nhận được kết quả?A. TIN HOC VAN PHONG*
+B. Tin hoc van phong
+C. Tin Hoc Van Phong
+D. Tin hoc van phong
+
+Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:
+A. Page Up ; Page Down.B. Ctrl-Page Up ; Ctrl- Page Down.*
+C. Cả 2 câu đều .
+D. Cả 2 câu đều .
+
+Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?A. VALUE#?*
+B. 15
+C. 1970
+D. 10
+
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi TINHOC ; tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:A. #VALUE!*
+B. Tinhoc
+C. TINHOC
+D. 6
+
+Các kiểu dữ liệu thông dụng của Excel là:
+A. Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng.B. Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức.*
+C. Kiểu số, kiểu lôgic, kiểu ngày tháng.
+D. Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng.
+
+Trong Excel, khi viết tên hàm trong tính toán, chương trình thông báo lỗi?A. #NAME!*
+B. #VALUE!
+C. #N/A!
+D. #DIV/0!
+
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi 2008 ; tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:
+A. #NAME!
+B. #VALUE!
+C. Giá trị kiểu chuỗi 2008D. Giá trị kiểu số 2008*
+
+Trong Excel ô A1 chứa trị "–3"; ô A2 chứa trị 2. Hàm MOD(A1,A2) sẽ trả về trị?A. 1*
+B. "-1"
+C. 0.5
+D. "-0.5"
+
+Trong Excel hàm SUM("3",2,1) sẽ trả về trị?
+A. 3
+B. 2C. 6*
+D. Báo lỗi do không cộng được chuỗi.
+
+Trong Excel hàm dùng để chuyển chuỗi số sang số là hàm nào trong các hàm sau?
+A. Left(chuỗi, n)
+B. Right(chuỗi, n)
+C. Mid(chuỗi, m, n)D. Value(số)*
+
+Biểu thức sau cho kết quả là bao nhiêu? =DAY("15-Apr-1998")A. 15.*
+B. 1988.
+C. 8.
+D. Tất cả các phương án trên đều sai .
+
+Biểu thức sau cho kết quả là bao nhiêu? =DAY("30/02/2002")
+A. 30
+B. 2002
+C. 2D. #Value!*
+
+Biểu thức sau cho kết quả là bao nhiêu? =MONTH("28/2/2002")
+A. 28
+B. 2002
+C. 2D. #Value!*
+
+Biểu thức sau cho kết quả là bao nhiêu? =MONTH("6-May")
+A. 28B. 5*
+C. 6
+D. 7
+
+Biểu thức sau trả lại kết quả là bao nhiêu? =AVERAGE(4,6,7,8)A. 6.25*
+B. 25
+C. 8
+D. 4
+
+Biểu thức sau trả lại kết quả là bao nhiêu? =Max(2,3,7,9,e)
+A. 2
+B. 9C. #Name?*
+D. #Value!
+
+Biểu thức sau trả lại kết quả là bao nhiêu? =Min(2,3,7,-9,e)
+A. 7
+B. 9C. #Name?*
+D. #Value!
+
+Biểu thức sau trả lại kết quả là bao nhiêu (Các ô A1, A2, A3, A4, A5 đều có giá trị số là 3)? =Sum(A1:A5)A. 15*
+B. 9
+C. #Name?
+D. #Value!
+
+Thiết bị ra dùng để đưa các kết quả đã xử lý cho người sử dụng. Thiết bị ra thông dụng nhất hiện nay là:
+A. Màn hình (Monitor), Ổ cứng (HDD).B. Màn hình và Máy in.*
+C. Máy in (Printer), Ổ mềm (FDD).
+
+Nhiệm vụ chủ yếu của khối xử lý trung tâm CPU là:
+A. Thực hiện các phép toán số học và logic.
+B. Quyết định các thao tác mà chương trình đòi hỏi.C. Thực hiện các phép toán số học và logic hoặc quyết định các thao tác mà chương trình đòi hỏi.*
+
+Chức năng của các BUS dữ liệu là:A. Đảm bảo việc truyền dữ liệu giữa các bộ phận bên trong vi xử lý và từ vi xử lý với bên ngoài.*
+B. Tính toán các phép toán số học và Logic.
+C. Ghi nhớ trạng thái của kết quả vào các thanh ghi.
+
+Nơi dùng để lưu trữ các chương trình điều khiển thiết bị, các lệnh xử lý (kể cả các lệnh nội trú của DOS), các chương trình của người sử dụng và dữ liệu đưa vào xử lý là:A. Bộ nhớ RAM.*
+B. Bộ nhớ ROM.
+C. Phần mềm.
+
+Phần mềm là gì:
+A. Là các thiết bị ngoại vi ghép nối đến máy vi tính.B. Là các chương trình có thể chạy trên máy vi tính.*
+C. Là các thiết bị ngoại vi ghép nối đến máy vi tính và là các chương trình có thể chạy trên máy vi tính.
+
+Virus tin học thực chất là:
+A. Một loại vi sinh vật sống ký sinh trên các thiết bị vật lý của máy tính.
+B. Một kháng thể tồn tại bên ngoài không khí.C. Một đoạn chương trình có kích thước cực kỳ nhỏ bé nhưng lại bao hàm trong nó những chức năng rất đa dạng.*
+
+Con người lưu trữ dữ liệu thông qua việc sử dụng các chữ cái, chữ số và các ký tự toán học, đó là quá trình:
+A. Giải mã.B. Mã hóa thông tin.*
+C. Bảo mật thông tin.
+
+Hiện nay nhiều nước trong đó có Việt Nam sử dụng bộ mã truyền tin tiêu chuẩn của Hoa Kỳ với tên gọi là:A. ASCII (American Standard Code for Information Interchange).*
+B. VNI.
+C. TCVN3.
+
+Máy vi tính là hệ thống thiết bị điện tử được lắp ráp bởi các linh kiện điện tử và mạch vi xử lý. Nhìn bề ngoài máy tính bao gồm các bộ phận nào sau đây:
+A. Màn hình, Case (CPU, Mainboard, HDD).
+B. Bàn phím, Chuột, Máy in.C. Màn hình, Case (CPU, Mainboard, HDD) và Bàn phím, Chuột, Máy in.*
+
+Trong các máy vi tính bộ nhớ ngoài thường bao gồm.A. CD-ROM, HDD, FDD.*
+B. Đĩa mềm (Flopy Disk), CPU (Central Processing Unit).
+C. Đĩa cứng (HDD).
+
+Các thiết bị vào dùng để cung cấp dữ liệu cho máy xử lý, thiết bị vào thông dụng nhất hiện nay là:
+A. Bàn phím (Keyboard), Chuột (Mouse).
+B. Máy quét ảnh (Scaner).C. Bàn phím (Keyboard), Chuột (Mouse) và Máy quét ảnh (Scaner).*
+
+Để chép tệp CONGVAN.VNS trong thư mục hành chính ở ổ đĩa A sang ổ đĩa B ta viết câu lệnh như thế nào:
+A. B:\COPY A:\HANHCHINH\CONGVAN.VNS A: (Enter sau khi gõ xong lệnh).B. A:\COPY A:\HANHCHINH\CONGVAN.VNS B: (Enter sau khi gõ xong lệnh).*
+C. A:\COPY A:\CONGVAN.VNS\HANHCHINH B: (Enter sau khi gõ xong lệnh).
+
+Lệnh DIR (Directory) dùng để xem trong thư mục nào đó có những tệp nào đang được lưu trữ. Giả sử vị trí hiện thời là ở thư mục gốc trên ổ C, để xem đĩa trên ổ A có những thư mục hoặc tệp gì ta gõ.
+A. A:\>DIR C: (Enter sau khi gõ xong lệnh).
+B. C:\>DIRECTION A: (Enter sau khi gõ xong lệnh).C. C:\>DIR A: (Enter sau khi gõ xong lệnh).*
+
+Từ ổ đĩa chủ C cần xem trong thư mục BKED ở ổ đĩa D có những tệp nào có đuôi là VNS, lệnh viết như thế nào:
+A. C:\>DIR D:\BKED\??.. (Enter sau khi gõ xong lệnh).
+B. C:\>DIR D:\BKED\"…" (Enter sau khi gõ xong lệnh).C. C:\>DIR D:\BKED\..VNS (Enter sau khi gõ xong lệnh).*
+
+Để tạo thư mục trong DOS người ta sử dụng lệnh nào:
+A. CD.B. MD.*
+C. RD.
+
+Phần mềm Windows, Linux và OS2 có đặc điểm gì chung?
+A. Tất cả đều là phần mềm ứng dụng.
+B. Tất cả đều là dịch vụ dải tần rộng (Broadband Service).
+C. Tất cả đều là phần mềm điều khiển thiết bị phần cứng.D. Tất cả đều là hệ điều hành.*
+
+Trong máy tính RAM có nghĩa là gì?A. Là bộ nhớ truy xuất ngẫu nhiên.*
+B. Là bộ nhớ chỉ đọc.
+C. Là bộ xử lý thông tin.
+D. Cả A, B, C đều .
+
+Bạn hiểu Virus tin học lây lan bằng cách nào?
+A. Thông qua người sử dụng, khi dùng tay ẩm ướt sử dụng máy tính.
+B. Thông qua hệ thống điện, khi sử dụng nhiều máy tính cùng một lúc.
+C. Thông qua môi trường không khí, khi đặt những máy tính quá gần nhau.D. A, B, C đều .*
+
+Trong Word, để biết đang sử dụng Word phiên bản nào:A. Nhấn Help, chọn About Microsoft Word*
+B. Nhấn Tools/ Options
+C. Nhấn Windows/ Split
+D. Nhấn File/ Properties
+
+Tổ hợp phím Ctrl + Shift + =, có chức năng gì?
+A. Bật hoặc tắt gạch dưới nét đôi.B. Bật hoặc tắt chỉ số trên.*
+C. Bật hoặc tắt chỉ số dưới.
+D. Trở về dạng mặc định.
+
+Trong Word, muốn kẻ đường thẳng cho thật thẳng, phải nhấn phím gì trước khi kéo chuột:
+A. CtrlB. Shift*
+C. Ctrl + Alt
+D. Alt + Shift
+
+Trong mạng máy tính, thuật ngữ LAN có ý nghĩa gì?A. Mạng cục bộ.*
+B. Mạng diện rộng.
+C. Mạng toàn cầu.
+D. Một ý nghĩa khác.
+
+Hệ điều hành là:
+A. Phần mềm ứng dụng.B. Phần mềm hệ thống.*
+C. Phần mềm tiện ích.
+D. Tất cả đều .
+
+Trong Word, để gõ công thức toán học, ta chọn thao tác nào?
+A. View/Microsoft EquationB. Insert/Equation*
+C. Edit/Microsoft Equation
+D. Tools/Object/Microsoft Equation
+
+Trong Word, có mấy cách tạo chữ Word Art?
+A. 1
+B. 3
+C. 4D. 2*
+
+Trong Table của Word, có mấy dạng canh lề?
+A. 4B. 9*
+C. 8
+D. 6
+
+Trong Word, để canh thẳng lề trái cho một đoạn văn bản đã được chọn, ta sử dụng tổ hợp phím nào?
+A. Ctrl + R
+B. Ctrl + CC. Ctrl + L*
+D. Ctrl + J
+
+Trong Excel có mấy loại dữ liệu?A. 3 loại*
+B. 5 loại
+C. 6 loại
+D. Tất cả đều .
+
+Trong Excel có mấy loại địa chỉ?A. 3 loại*
+B. 2 loại
+C. 1 loại
+D. Tất cả đều .
+
+Trong Excel, để chọn rời rạc ta nhấn giữ phím nào trong khi chọn?
+A. ShiftB. Ctrl*
+C. Alt
+D. Space
+
+Trong Excel để lấy n kí tự bên trái của chuỗi m ta dùng?
+A. LEFT(n,m)
+B. RIGHT(m,n)C. LEFT(m,n)*
+D. RIGHT(n,m)
+
+Kết quả của hàm: LEFT("12AB012", 3) ?
+A. 012B. 12A*
+C. 12
+D. Các câu trên đều .
+
+Để kết thúc việc trình diễn trong PowerPoint, ta bấm:
+A. Phím 10B. Phím ESC*
+C. Phím Delete
+D. Phím Enter
+
+Khi đang làm việc với PowerPoint, để chèn thêm một Slide mới, ta thực hiện:
+A. Edit - New Slide
+B. File - New Slide
+C. Slide Show - New SlideD. Home- New Slide*
+
+Để trình diễn một Slide trong PowerPoint, ta bấm:A. Phím F5*
+B. Phím F3
+C. Phím F1
+D. Phím F10
+
+Khi đang trình diễn trong PowerPoint, muốn kết thúc phiên trình diễn, ta thực hiện:
+A. Nháy chuột phải, rồi chọn Exit
+B. Nháy chuột phải, rồi chọn ReturnC. Nháy chuột phải, rồi chọn End Show (Hoặc nhấn ESC)*
+D. Nháy chuột phải, rồi chọn Screen
+
+Khi đang làm việc với PowerPoint, muốn thiết lập hiệu ứng cho văn bản, hình ảnh,... ta thực hiện:
+A. Insert - Custom Animation, rồi chọn Add Effect
+B. Format - Custom Animation, rồi chọn Add Effect
+C. View - Custom Animation, rồi chọn Add EffectD. Vào Animation, rồi chọn hiệu ứng.*
+
+Khi đang làm việc với PowerPoint, muốn xóa bỏ hiệu ứng trình diễn, ta chọn đối tượng cần xóa bỏ hiệu ứng và thực hiện:A. Bấm delete*
+B. Slide Show - Custom Animation, rồi chọn Delete
+C. Cả 2 câu đều .
+D. Cả 2 câu đều .
+
+Thao tác chọn File -> Close dùng để
+A. lưu tập tin hiện tại
+B. mở một tập tin nào đóC. đóng tập tin hiện tại*
+D. thoát khỏi Powerpoint
+
+Đang trình chiếu một bài trình diễn, muốn dừng trình diễn ta nhấn phím
+A. TabB. Esc*
+C. Home
+D. End
+
+Muốn mở một tập tin đã tồn tại trên đĩa, đầu tiên ta phảiA. chọn File -> Open*
+B. chọn File -> New
+C. chọn File -> Save
+D. chọn File -> Save As
+
+Để lưu lại tập tin GADT.PPT đang mở, ta có thểA. chọn File -> Save*
+B. chọn File -> Save As
+C. chọn File -> Save hoặc File -> Save As đều được
+D. chọn File -> Close
+
+Để hủy bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím
+A. Ctrl + XB. Ctrl + Z*
+C. Ctrl + C
+D. Ctrl + V
+
+Trong khi thiết kế giáo án điện tử, thực hiện thao tác chọn Home -> New Slide là để
+A. chèn thêm một slide mới vào ngay trước slide hiện hànhB. chèn thêm một slide mới vào ngay sau slide hiện hành*
+C. chèn thêm một slide mới vào ngay trước slide đầu tiên
+D. chèn thêm một slide mới vào ngay sau slide cuối cùng
+
+Để tạo một slide giống hệt như slide hiện hành mà không phải thiết kế lại, người sử dụng
+A. chọn Insert -> Duplicate
+B. chọn Insert -> New SlideC. chọn Home-> Duplicate selecte Slide*
+D. không thực hiện được
+
+Để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên ta phải
+A. đưa con trỏ văn bản vào giữa đoạn văn bản cần căn lềB. chọn cả đoạn văn bản cần căn lề*
+C. chọn một dòng bất kỳ trong đoạn văn bản cần căn lề
+D. cả 3 cách nêu trong câu này đều
+
+Để lưu một đoạn văn bản đã được chọn vào vùng nhớ đệm (clipboard) mà không làm mất đi đoạn văn bản đó ta nhấn tổ hợp phím
+A. Ctrl + X
+B. Ctrl + Z
+C. Ctrl + VD. Ctrl + C*
+
+Đang thiết kế giáo án điện tử, trước khi thoát khỏi PowerPoint nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo. Để lưu lại tập tin này ta sẽ kích chuột trái vào nút nào trong bảng thông báo này?A. Nút Yes*
+B. Nút No
+C. Nút Cancel
+D. Nút Save
+
+Muốn sao chép một phần của đoạn văn bản trong một Text Box, ta phải
+A. chọn phần văn bản cần sao chép, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + X
+B. chọn phần văn bản cần sao chép, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + CC. chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V*
+D. chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C
+
+Sau khi đã chọn một số đối tượng trên slide hiện hành, nhấn tổ hợp phím nào sau đây sẽ làm mất đi các đối tượng đó?
+A. Alt + X
+B. Shift + XC. Ctrl + X*
+D. Ctrl + Shift + X
+
+Máy tính đang kết nối Internet, sử dụng siêu liên kết (Hyperlink) sẽ cho phép người dùng liên kết đến
+A. chỉ các tập tin có sẵn trong các ổ đĩa của máy tính đang soạn thảo
+B. chỉ các slide đã có trong giáo án đang soạn thảo
+C. chỉ các trang Web có trên mạngD. tất cả các tập tin, các slide đã có trong máy và các trang Web*
+
+Khi đang làm việc với Word, nếu lưu tệp vào đĩa, thì tệp đó:
+A. Luôn luôn ở trong thư mục OFFICE
+B. Luôn luôn ở trong thư mục My Documents
+C. Bắt buộc ở trong thư mục WINWORDD. Cả 3 câu đều sai*
+
+Khi soạn thảo văn bản trong Winword, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:
+A. ESC
+B. CtrlC. CapsLock*
+D. Tab
+
+Trong soạn thảo Winword, muốn đánh số trang cho văn bản, ta thực hiện:A. Insert - Page Numbers*
+B. View - Page Numbers
+C. Tools - Page Numbers
+D. Format - Page Numbers
+
+Khi soạn thảo văn bản xong, để in văn bản ra giấy
+A. Chọn menu lệnh File - Print
+B. Bấm tổ hợp phím Ctrl - PC. Các câu a. và b. đều *
+D. Các câu a. và b. đều
+
+Có bao nhiêu cách để tạo mới (New) một văn bản Word?
+A. 1B. 2*
+C. 3
+
+Trong Word, để cắt vào bộ nhớ tạm một đoạn văn bản đã được chọn, ta chọn thao tác nào?
+A. Ctrl + C
+B. Ctrl + VC. Ctrl + X*
+D. Ctrl + A
+
+Trong Word hỗ trợ sao lưu văn bản soạn thảo thành các định dạng nào?
+A. *. doc; *.txt và *.exe
+B. *.doc; *.htm và *.zipC. *.docx; *.dotx; *.htm và *.txt*
+D. *.doc; *.dat; *.xls và *.avi
+
+Để đưa con trỏ về đầu văn bản, ta sử dụng tổ hợp phím nào?A. Ctrl + Home*
+B. Ctrl + End
+C. Shift + Home
+D. shift + End
+
+Trong Word, biểu tượng giống cây chổi có chức năng gì?
+A. Sao chép nội dung văn bản
+B. Canh lề văn bảnC. Sao chép định dạng*
+D. Mở văn bản đã có
+
+Trong Table/Sort của Word, hỗ trợ tối đa bao nhiêu tiêu chí sắp xếp?A. 3*
+B. 2
+C. 4
+D. 1
+
+Trong Word, có mấy cách tạo chữ Word Art?
+A. 1
+B. 3
+C. 4D. 2*
+
+Trong Word, để in trang hiện hành, ta chọn thao tác nào?
+A. File/ Print chọn All
+B. File/ Print chọn PagesC. File/ Print chọn Current page*
+D. File/ Print chọn Selection
+
+Thiết bị nhập chuẩn gồm:
+A. Màn hình, máy in
+B. Máy in, chuộtC. Chuột, bàn phím*
+D. Bàn phím, máy in
+
+Tin học là:A. Ngành khoa học nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử*
+B. Ngành khoa học nghiên cứu về phần cứng máy tính
+C. Ngành khoa học về công nghệ phần mềm
+D. Ngành khoa học sửa chữa phần cứng và phần mềm
+
+Nút Reset có công dụng:
+A. Khởi động máy tínhB. Khởi động lại máy tính*
+C. Nạp HĐH
+D. Tắt máy tính
+
+1 Byte có thể biểu diễn được:
+A. 1 dãy số
+B. 1 dòng văn bản
+C. 1 từD. 1 kí tự*
+
+Các phát biểu sau, phát biểu nào đúng :
+A. Tên File không được chứa khoảng trắngB. Tên File không nên có dấu tiếng Việt*
+C. Tên File được dài trên 255 kí tự
+D. Tên File được chấp nhận kí tự #
+
+Mọi máy tính muốn sử sụng được, trước tiên phải:
+A. Có đầy đủ các phần mềm ứng dụng
+B. Có đầy đủ các phần mềm tiện íchC. Có phần mềm hệ thống*
+D. Không cần gì cả vẫn sử dụng tốt.
+
+Mô hình tổng quát của một quá trình xử lí thông tin là:
+A. Xử lý > Nhập > XuấtB. Nhập > Xử lý > Xuất*
+C. Xuất > Xử lý > Nhập
+D. Xử lý > Xuất > Nhập
+
+File là
+A. Một chương trình ứng dụng
+B. Một hệ điều hànhC. Một tập hợp các thông tin được lưu trữ trên các thiết bị nhớ*
+D. Một phần mềm trò chơi
+
+Hệ điều hành là
+A. Một phần mềm ứng dụng
+B. Một phần mềm tiện tíchC. Một phần mềm hệ thống*
+D. Một phần mềm lập trình máy tính
+
+Phát biểu nào dưới đây sai:
+A. Folder có thể chứa File và Folder conB. File có thể chứa Folder con*
+C. Chỉ có tối đa 3 cấp Folder
+D. HĐH là một phần mềm hệ thống
+
+Gigabyte (GB) bằng:
+A. 1024 KB
+B. 1024 ByteC. 1024 MB*
+D. 1000 MB
+
+Hệ điều hành máy tính:A. Phải có trên mọi máy tính cá nhân*
+B. Luôn có sẵn, không cần phải cài đặt
+C. Do hãng phần mềm Microsoft xây dựng
+D. Không cần có bản quyền
+
+Thư mục gốc của một ổ đĩa có thể chứa:
+A. 1 File
+B. Không hạn chế số FileC. Nhiều File, phụ thuộc vào dung lượng đĩa*
+D. Tối đa 100 File
+
+Phần mềm là tập hợp các chương trình:
+A. Giúp học sinh học tốt
+B. Quản lí hệ thống
+C. Giúp người sử dụng một việc nào đóD. Chạy trên máy tính*
+
+Phần cứng của một máy tính gồm:
+A. CPU, bộ nhớ
+B. Bàn phím, chuột, màn hìnhC. Tất cả các thiết bị tạo nên hệ thống máy tính*
+D. Thùng CPU, bàn phím, chuột, màn hình
+
+Thư mục gốc của một ổ đĩa:
+A. Do người sử dụng tạoB. Do Hệ điều hành tạo*
+C. Tự nhiên có
+D. Không có loại Thư mục này
+
+Trong Excel, khi viết tên hàm trong tính toán, chương trình thông báo lỗi?A. #NAME!*
+B. #VALUE!
+C. #N/A!
+D. #DIV/0!
+
+Trong Word, để kết thúc một đoạn và sang đoạn mới, ta chọn thao tác nào?
+A. Shift + EnterB. Enter*
+C. Alt + Enter
+D. Alt + Shift
+
+Trong Word, để di chuyển nhanh đến một trang nào đó trong văn bản, ta sử dụng tổ hợp phím nào?
+A. Ctrl + L
+B. Ctrl + E
+C. Ctrl + RD. Ctrl + G*
+
+Trong Word để lưu 1 tập tin ta dùng lệnh hay phím tắt nào
+A. Ctrl – O
+B. Ctrl – S
+C. File -> SaveD. Câu B, C *
+
+Trong Word để mở 1 tập tin ta dùng lệnh hay phím tắt nào
+A. Ctrl – O
+B. Ctrl – S
+C. File -> OpenD. Câu A, C *
+
+Trong Word để tạo mới 1 tập tin ta dùng lệnh hay phím tắt nào
+A. Ctrl – I
+B. Ctrl – N
+C. File -> NewD. Câu B, C *
+
+Để gõ được dấu tiếng Việt trong văn bản ta chọn bảng mã và font chữ nào
+A. Bảng mã Unicode, Font Arial
+B. Bảng mã Unicode, Font Vni-times
+C. Bảng mã VNI Windows, Font Vni-TimesD. Câu A, C *
+
+Hàm AND có thể nhận mấy giá trị?
+A. 2
+B. 3
+C. 4D. Tất cả các phương án trên đều đúng*
+
+Hàm OR có thể nhận mấy giá trị?
+A. 2
+B. 3
+C. 4D. Tất cả các phương án trên đều đúng*
+
+Trong Excel biểu thức =24*2+5*2+(20-10)/2 sẽ trả về kết quả là bao nhiêu?A. 47*
+B. 271
+C. 138
+D. Không thể thực hiện được biểu thức trên
+
+Trong khi làm việc với Excel, muốn di chuyển con trỏ ô về ô A1, ta bấm?
+A. Shift – Home
+B. Tab – HomeC. Ctrl – Home*
+D. Ctrl – Shift – Home
+
+Con người lưu trữ dữ liệu thông qua việc sử dụng các chữ cái, chữ số và các ký tự toán học, đó là quá trình?
+A. Giải mãB. Mã hóa thông tin*
+C. Bảo mật thông tin
+
+Hiện nay nhiều nước trong đó có Việt Nam sử dụng bộ mã truyền tin tiêu chuẩn của Hoa Kỳ với tên gọi là?A. ASCII (American Standard Code for Information Interchange)*
+B. VNI
+C. TCVN3
+
+Máy vi tính là hệ thống thiết bị điện tử được lắp ráp bởi các linh kiện điện tử và mạch vi xử lý. Nhìn bề ngoài máy tính bao gồm các bộ phận nào sau đây?
+A. Màn hình, Case (CPU, Mainboard, HDD)
+B. Bàn phím, Chuột, Máy inC. Cả 2 đáp án trên đều *
+
+Thiết bị ra dùng để đưa các kết quả đã xử lý cho người sử dụng. Thiết bị ra thông dụng nhất hiện nay là?
+A. Màn hình (Monitor), Ổ cứng (HDD)B. Màn hình và Máy in*
+C. Máy in (Printer), Ổ mềm (FDD)
+
+Nhiệm vụ chủ yếu của khối xử lý trung tâm CPU là?
+A. Thực hiện các phép toán số học và logic
+B. Quyết định các thao tác mà chương trình đòi hỏiC. Cả 2 đáp án trên đều *
+
+Để phòng chống Virus cách tốt nhất là?
+A. Thường xuyên kiểm tra đĩa, đặc biệt thận trọng khi sao chép dữ liệu từ nơi khác mang tới
+B. Sử dụng các chương trình quét virus nổi tiếng và phải cập nhật thường xuyênC. Cả 2 đáp án trên đều *
+
+Hệ điều hành OS (Operating System) là?
+A. Công cụ giao tiếp giữa máy tính với các đối tượng ngoài máy tính
+B. Là phần mềm điều khiển toàn bộ tiến trình xảy ra trong máy vi tínhC. Cả 2 đáp án trên đều *
+
+Để hủy bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím
+A. Ctrl + XB. Ctrl + Z*
+C. Ctrl + C
+D. Ctrl + V
+
+Muốn xoá đi một cột bảng biểu trong Slide hiện hành ta thực hiện lệnh:
+A. Chọn cột đó, nhấn chuột phải lên vùng đã chọn và chọn Delete columns
+B. Nhấn chụôt phải lên vùng bất kỳ thuộc cột đó và nhấn phím Delete
+C. Đưa trỏ vào văn bản vào ô bất kỳ thuộc cột đó và nhấn phím DeleteD. Chọn cột đó, nhấn chuột phải lên vùng đã chọn và nhấn phím Delete*
+
+Để gõ tiêu đề, đánh số trang trong các slide, khai báo ngày tháng ..... ta thực lệnh nào sau đây?A. Chọn Insert -> chọn slide number*
+B. Chọn Insert ->chọn slide
+C. Chọn view -> chọn slide number
+D. Chọn view -> chọn slide number
+
+Trong MS Word, anh (chị) sử dụng phím nào để xoá ký tự đứng trước con trỏ?
+A. Page Up
+B. Page Down
+C. DeleteD. Backspace*
+
+Trong MS Word, để canh giữa một đoạn văn bản đã chọn anh chị làm cách nào?
+A. Chọn Edit -> Center từ menu
+B. Bấm mũi tên canh thẳng hàng trên thanh công cụ rồi chọn center.
+C. Nhấn tổ hợp phím Ctrl + CD. Bấm nút Center trên thanh công cụ.*
+
+Trong MS Word, muốn đặt một đường kẻ dưới của đoạn. Cách nào sau đây cho phép thực hiện?
+A. Bấm nút mũi tên Border trên thanh công cụ và chọn các loại đường kẻB. Chọn đoạn văn bản và bấm nút Underline trên thanh công cụ. (Ctrl +U)*
+C. Chọn menu Edit -> Border và bấm chọn vị trí muốn kẻ đường
+D. Chọn từ menu Insert -> Border
+
+Trong MS Word, anh (chị) sử dụng tổ hợp phím nào để lưu tài liệu hiện tại?
+A. Ấn tổ hợp phím ALT + S
+B. Ấn tổ hợp phím CTRL + OC. Ấn tổ hợp phím CTRL + S*
+D. Ấn tổ hợp phím CTRL + F
+
+Trong MS Word, làm cách nào để ngắt trang văn bản?
+A. Vào menu View -> Weblayout.
+B. Ấn tổ hợp phím Shift + Enter.C. Vào menu Insert -> Page Break*
+D. Vào menu Format -> Tabs
+
+Trong MS Word, ta làm cách nào để chèn ký tự đặc biệt (Symbol) vào văn bản:
+A. Vào menu Insert -> Picture.B. Vào menu Insert -> Symbol*
+C. Nháy chuột vào AutoShapes trên thanh công cụ.
+D. Tất cả các câu đều .
+
+Trong MS Word, ta làm cách nào để chèn hình ảnh vào văn bản?
+A. Vào menu Insert -> Insert Picture.
+B. Vào menu View -> Insert Picture.C. Vào menu Insert -> Picture.*
+D. Vào menu View -> Picture.
+
+Trong MS Word, ta sử dụng tổ hợp phím nào để canh đều 2 bên cho đoạn văn bản?
+A. Ấn tổ hợp phím ALT + X
+B. Ấn tổ hợp phím CTRL + O
+C. Ấn tổ hợp phím CTRL + ED. Ấn tổ hợp phím CTRL + J*
+
+Trong MS Word, ở chế độ xem trước khi in ta có thể sửa dữ liệu trong văn bản được không?
+A. CóB. Không*
+Thông thường tệp văn bản MS Word 2010 có phần mở rộng là gì?
+A. pptx -> Powerpoint
+B. xlsx -> ExcelC. docx*
+D. txt
+
+Trong MS Word để mở 1 văn bản mới ta có thể thực hiện cách nào trong các cách sau?
+A. Nháy chuột vào biểu tượng New trên thanh công cụ.
+B. Vào Menu File -> chọn New
+C. Dùng tổ hợp phím Ctrl + N.D. Cả 3 cách trên*
+
+Thêm 1 slide giống trước ta dùng tổ hợp phím lệnh nào sau đây?
+A. ALT+L+OB. ALT+I+D*
+C. ALT+T+D
+D. ALT+A+D
+
+Tại một slide ta dùng tổ hợp phím nào sau đây sẽ xoá slide đó?
+A. ALT+I+D
+B. ALT+E+FC. ALT+E+D*
+D. ALT+W+P
+
+Tại một Slide hiện hành ta bấm delete (trên bàn phím) lệnh này sẽ:
+A. Thêm slide
+B. Thêm slide hiện thờiC. Xoá slide đó*
+D. không thực hiện
+
+Thêm một slide rỗng ta dùng tổ hợp phím nào sau đây?
+A. ALT+W+NB. ALT+I+N*
+C. ALT+T+N
+D. ALT+F+N
+
+Trong MS Word, ta sử dụng tổ hợp phím nào để đóng (tắt) chương trình?
+A. Ấn tổ hợp phím CTRL + B
+B. Ấn tổ hợp phím CTRL + A
+C. Ấn tổ hợp phím CTRL + F10D. Ấn tổ hợp phím CTRL + W*
+
+Trong MS Word, ta sử dụng tổ hợp phím nào để canh đều bên phải cho đoạn văn bản?
+A. Ấn tổ hợp phím CTRL + LB. Ấn tổ hợp phím CTRL + R*
+C. Ấn tổ hợp phím CTRL + J
+D. Ấn tổ hợp phím CTRL + E
+
+Trong MS Word, ta làm cách nào để ngắt trang văn bản?A. Ấn tổ hợp phím Ctrl + Enter*
+B. Vào menuFormat -> Tabs
+C. Ấn tổ hợp phím Shift + Enter.
+D. Vào menu View -> Page Numbers
+
+Trong MS Word, ta làm thế nào để trộn nhiều ô thành một ô? Lựa chọn các ô cần trộn -> vào menu Table:
+A. Chọn Delete Cells
+B. Chọn Split CellsC. Chọn Merge Cells*
+D. Chọn Insert -> chọn Cells.
+
+Trong MS Word, tổ hợp phím Ctrl +C dùng để làm gì?
+A. Chọn toàn bộ văn bản
+B. Đóng(Close) một tệp tinC. Sao chép(Copy) một khối văn bản*
+D. Di chuyển một khối văn bản
+
+Muốn xóa một đoạn văn bản, ta thực hiện
+A. Đưa con trỏ vào đầu đoạn văn bản cần xoá --> Nhấn phím Delete
+B. Đánh dấu khối chọn đoạn văn bản cần xoá --> Nhấn phím Space Bar
+C. Đánh dấu khối chọn đoạn văn bản cần xoá --> Nhấn tổ hợp phím Ctrl+XD. Cả 3 câu A, B, C đều *
+
+Để chuyển đổi qua lại giữa các tài liệu đang soạn trong WinWord, ta có thể dùng
+A. Menu Windows, Switch to
+B. Menu Windows, Tast List
+C. Menu Windows, ListD. Nhấn Ctrl +F6*
+
+Để chèn dòng trống dòng 1 và dòng 2, chúng ta phải sử dụng phím
+A. TAB
+B. CTRLC. ENTER*
+D. ESC
+
+Để dãn khoảng cách giữa các dòng là 1.5 line, cần thực hiện:
+A. Home/paragraph/line spacing hoặc Page layout/paragraph/line spacing
+B. Nhấn Ctrl + 5 tại dòng đóC. Cả hai cách A và B đều thực hiện được*
+D. Cả 2 cách A và B đều không thực hiện được
+
+PowerPoint cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phảiA. chọn Insert -> Master Slide*
+B. chọn Insert -> Slide Master
+C. chọn View -> Master -> Slide Master
+D. chọn View -> Slide Master -> Master
+
+Khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, ta phảiA. nhấn tổ hợp phím Ctrl + Tab*
+B. nhấn tổ hợp phím Shift + TabC. nhấn tổ hợp phím Alt + Tab *
+D. nhấn tổ hợp phím Esc + Tab
+
+Một số nhị phân 32 bit nếu biểu diễn trong hệ cơ số 8 sẽ có tối đa bao nhiêu chữ số?
+A. 8
+B. 10C. 11*
+D. 16
+
+Trong MS Word 2010, để tạo khoảng cách giữa 2 dòng là 1,5 dòng ta thực hiện lệnh nào sau đây?
+A. Nhấp biểu tượng trên thẻ HomeB. Nhấn Ctrl +5 *
+C. Nhấn chuột phải lên đoạn đang chọn, chọn 1,,5 lines
+D. Tại thẻ Page Layout, nhấn nút và chọn 1,5.
+
+Thao tác nhấp chuột trái 3 lần vào lề trái của văn bản sẽ có tác dụng gì?A. Chọn toàn bộ văn bản*
+B. Chọn một dòng
+C. Chọn đoạn văn bản hiện hành
+D. Mở cửa sổ Page Setup
+
+Trong MS Word 2010, phím nào sau đây đưa con trỏ về đầu dòng hiện hành?A. Home*
+B. Ctrl +Home
+C. End
+D. Ctrl + Page Up
+
+Trong MS Word 2010, để chèn hình ảnh từ thư viện có sẵn vào văn bản ta gọi lệnh gì?
+A. Tại thẻ Insert, nhấn nút Picture
+B. Tại thẻ Insert, nhấn nút SmartArtC. Tại thẻ Insert, nhấn nút Clip Art*
+D. Tại thẻ Insert, nhấn nút Screenshot
+
+Trong MS Word 2010, khi nhấn tổ hợp phím nào sẽ thực hiện đóng văn bản hiện đang mở?
+A. Ctrl -VB. Ctrl -W*
+C. Alt -W
+D. Shift -W
+
+Trong MS Word 2010, để di chuyển con trỏ về đầu tài liệu nhấn
+A. Ctrl + Page Up
+B. Ctrl + End
+C. HomeD. Ctrl + Home*
+
+Trong MS Word 2010, để chèn một tiêu đề dưới mới vào tài liệu đang mở ta gọi lệnh gì?A. Tại thẻ Insert, nhấn nút Footer, chọn một mẫu tiêu đề*
+B. Tại thẻ Insert, nhấn nút Header, chọn một mẫu tiêu đề mới
+C. Tại thẻ Insert, nhấn nút Footer, chọn Remove Footert
+D. Tại thẻ Insert, nhấn nút Header, chọn Edit Header
+
+Trong MS Word 2010, để chèn các hình đơn giản như hình chữ nhật, tròn, elip, tam giác... ta gọi lệnh gì?A. Tại thẻ Insert, nhấn nút Shapes rồi chọn hình cần vẽ*
+B. Tại thẻ Insert, nhấn nút TextBox
+C. Tại thẻ Insert, nhấn nút Screenshot
+D. Tại thẻ Insert, nhấn nút SmartArt
+
+Chương trình nào sau đây cho phép gõ được tiếng Việt trong MS Word 2010?
+A. Unikey
+B. Vietkey 200
+C. UnicodeD. Unikey và Vietkey 2000*
+
+Trong MS Word 2010, thao tác nào dưới đây được dùng để chọn một từ trong đoạn văn bản?
+A. Giữ phím Ctrl và nhấp chuột từ câu cần chọn
+B. Giữ phím Shift và nhấp chuột từ câu cần chọn
+C. nhấp chuột 3 lần vào lề trái của văn bảnD. Nhấp đôi chuột lên câu cần chọn*
+
+Trong một văn bản của MS Word 2010, có rất nhiều hình vẽ được tạo ra. Mỗi lần Cllick lên một hình nào đó thì chỉ chọn được hình đó. Để chọn được nhiều hình thì ta phải giữ thêm phím nào trong khi chọn?
+A. EnterB. Shift*
+C. Alt
+D. Tab
+
+Khi thao tác trong MS Word 2010, thông báo " Do you want to save changes to..." xuất hiện khi nào?
+A. Khi chọn một phông chữ (font) mà nó không tồn tại trong hệ thống.
+B. Không đặt tên file khi lưu văn bản.C. Khi đóng văn bản nhưng văn bản chưa được lưu*
+D. Khi lưu văn bản với tên file trùng với một file đã có trong thư mục lựa chọn
+
+Trong MS Word 2010 , để gộp các ô đang chọn của một bảng thành một ô thì ta gọi lệnh nào?
+A. Vào thẻ Layout, nhập nút Margin Cells
+B. Vào thẻ Layout, nhấp nút Split TableC. Vào thẻ Layout, nhấp nút Merge Cells*
+D. Vào thẻ Layout, nhấp nút Split Cells
+
+Chương trình nào sau đây không phải là phần mềm gõ tiếng việt?
+A. Vietkey 2000
+B. UnicodeC. Unikey và Vietkey 2000*
+D. Unikey
+
+Sử dụng kiểu gõ nào để khi nhập hai chữ A sẽ cho ra chữ Â , hai chữ E sẽ cho ra chữ Ê ...A. Telex*
+B. Select
+C. VNI
+D. Latex
+
+Trong MS Word 2010, phím nào để xóa ký tự đứng trước con trỏ
+A. Page Down
+B. Delete
+C. Page UpD. Backspace*
+
+Nhấp chuột trái 3 lần vào vị trí nào đó trong đoạn văn bản sẽ có tác dụng gì?
+A. Chọn toàn bộ văn bản.B. Chọn nguyên đoạn văn bản tại vị trí nhấp chuột*
+C. Chọn một từ
+D. Chọn nguyên dòng
+
+Trong MS Word 2010, khi cần thay đổi màu nền cho hình vẽ đang chọn thì ta nhấp nút nào trong thẻ ngữ cảnh Format rồi chọn màu?A. Shape Fill*
+B. Shape Outline
+C. Shape Effect
+D. Edit Shape
+
+Standard là một ...... của Microsoft Word dùng để thao tác với tập tin văn bảnA. Thanh công cụ*
+B. Menu
+C. Hộp thoại
+D. Trang giấy
+
+Trong MS Word 2010, để chèn một công thức toán vào văn bản ta gọi lệnh gì?
+A. Tại thẻ Insert, nhấp nút New Equation
+B. Tại thẻ Insert, nhấp nút Object
+C. Tại thẻ Insert, nhấp nút Quick Parts, chọn New EquationD. Tại thẻ Insert, nhấp nút Equation, chọn Insert New Equation*
+
+Trong MS Word 2010, sau khi bôi đen toàn bộ bảng, nếu nhấn phím Delete thì điều gì xảy ra?
+A. Không có tác dụng gì
+B. Xóa toàn bộ nội dung và bảng biểu
+C. Xóa bảng, không xóa nội dungD. Xóa toàn bộ nội dung trong bảng, không xóa bảng*
+
+Mỗi tập tin MS Word 2010 được lưu lại sẽ có đuôi (phần mở rộng) mặc định là:
+A. PDFB. DOCX*
+C. XLS
+D. DOC
+
+Trong MS Word 2010 , khi cần gõ các chỉ số dưới (như X2, an, H2O) thì sử dụng phím tắt nào trong khi gõ?A. Ctrl - =*
+B. Ctrl - Shift =
+C. Ctrl - Alt - Shift -=
+D. Shift -=
+
+Trong MS Word 2010, khi một văn bản đang soạn thảo chưa được lưu lại nhưng ta vào menu File, chọn lệnh Close thì thông báo nào dưới đây sẽ xuất hiện?A. "Do you want to save the changes to..."*
+B. "Are you sure to exit?"
+C. "Do you want to save the document before close"
+D. "The file.... already exist"
+
+Trong MS Word 2010 , công dụng của tổ hợp phím Ctrl - C là gi?A. Sao chép các nội dung đang lựa chọn vào trong bộ đệm*
+B. Phục hồi lại các thao tác đã làm trước đó
+C. Dán tất cả các nội dung đã được sao chép trước đó vào vị trí cần trỏ
+D. Thực hiện canh lề giữa đoạn văn bản đó
+
+Trong MS Word 2010,, tổ hợp phím nào dùng để tăng, giảm cỡ chữ cho nội dung văn bản?
+A. Ctrl -1 hay Ctrl -2B. Ctrl -[ hay Ctrl -]*
+C. Ctrl -< hay Ctrl ->
+D. Shift -[ hay Shift -]
+
+Trong MS Word 2010 tổ hợp phím Ctrl -S được thay cho lệnh nào dưới đây?
+A. Vào File, chọn lệnh Save and SendB. Vào File, chọn Lệnh Save*
+C. Vào File, chọn lệnh Open
+D. Vào File, chọn Lệnh Save As
+
+Trong MS Word 2010, thao tác giữ phím Ctrl và nhấp chuột vào một vị trí nào đó trong đoạn văn bản sẽ có tác dụng gì?
+A. Chọn đoạn văn bản
+B. Chọn toàn bộ văn bảnC. Chọn một câu tại vị trí con trỏ*
+D. Chọn một từ
+
+Trong MS Word 2010, để chọn khối từ con trỏ về đầu tài liệu nhấn
+A. Ctrl + Home
+B. Ctrl + End
+C. Ctrl+ Page UpD. Ctrl + Shift + Home*
+
+Trong MS Word 2010, tổ hợp phím nào được sử dụng để thay thế cho thao tác Click vào nút B trên thẻ Home?A. Ctrl -B*
+B. Alt -C
+C. Shift -B
+D. Ctrl - Shift -B
+
+Tên gọi nào sau đây là tên của kiểu gõ tiếng Việt
+A. TCVN 3B. VNI*
+C. VietWare _X
+D. Unicode
+
+Trong MS Word 2010, ký hiệu điểm tab có ý nghĩa gì?
+A. Canh văn bản ở lề trái của văn bản
+B. Canh văn banr ở mép bên phải tại vị trí TABC. Canh văn bản ở mép bên trái tại vị trí TAB*
+D. Canh văn bản ở lề 2 bên của khổ giấy
+
+Trong MS Word 2010, để chèn thêm một dòng bên dưới dòng đang chọn thì ta vào thẻ Layout rồi chọn nút lệnh gì?
+A. Insert AboveB. Insert Below*
+C. Rows Below
+D. Insert Right
+
+Trong MS Word 2010, cách nhanh nhất để chọn (bôi đen) từ con trỏ về cuối câu là nhấn tổ hợp phím nào?
+A. Alt +F8
+B. Ctrl + EndC. Shift + End*
+D. Alt +A
+
+Cách nào sau đây được dùng để thay đổi Zoom cho văn bản hiện hành trong chương trình MS Word 2010?
+A. Tại thẻ View, chọn nút Full Screen ReadingB. Tại thẻ View, chọn nút Zoom trong nhóm Zoom*
+C. Lăn nút cuộn của chuột
+D. Nhấn và giữ phím ALT trong khi lăn nút cuộn của chuột
+
+Trong MS Word 2010, khi đang soạn thảo văn bản để xác định tổng số trang của văn bản hiện hành ta quan sát ở ...?
+A. Thanh công cụ RibbonB. Thanh trạng thái*
+C. Trong trang Backstage của thực đơn File
+D. Thanh thước
+
+Trong MS Word 2010, để di chuyển con trỏ về cuối tài liệu nhấn
+A. Page Down
+B. Ctrl + Page Down
+C. EndD. Ctrl +End*
+
+Một văn bản được soạn thảo trong chương trình Microsoft Word gọi là gì?
+A. WorkBook
+B. WordsheetC. Document*
+D. Text Document
+
+Tromg MS Word 2010, để chọn toàn bộ nội dung thì nhấn tổ hợp phím nào?
+A. Shift- Ctrl- AB. Ctrl -A*
+C. Ctrl - Alt -A
+D. Shift - A
+
+Trong MS Word 2010, để chèn thêm một cột bên trái cột đang chọn thì ta vào thẻ Layout rồi chọn nút lệnh gì?
+A. Left Columns
+B. Insert Below
+C. Insert AboveD. Insert Left*
+
+Trong MS Word 2010, để đặt lề giấy cho văn bản đang soạn thảo, ta chọn thẻ Page Layout, rồi chọn nút ..... , rồi chọn một tùy chọn lề?
+A. Orientation
+B. SizeC. Margins*
+D. Page Setup
+
+Trong MS Word 2010, để thay đổi hướng in cho tài liệu ta chọn thẻ Page Layout, rồi chọn nút.... rồi chọn một tùy chọn hướng inA. Orientation*
+B. Size
+C. Margins
+D. Page Setup
+
+Khi thao tác trong MS Word 2010, thông báo " The file....already exist" xuất hiện khi nào?
+A. Không đặt tên file khi lưu văn bản
+B. Không chọn một phông chữ (font) mà nó không tồn tại trong hệ thốngC. Khi lưu văn bản với tên file trùng với một file đã có trong thư mục lựa chọn*
+D. Khi đóng văn bản nhưng văn bản chưa được lưu
+
+Trong MS Word 2010, để chia cột cho đoạn văn bản ta thực hiện như thế nào?A. Tại thẻ Page Layout, nhấp chọn Columns*
+B. Tại thẻ Page Layout, nhấp chọn Line Numbers
+C. Tại thẻ Insert , nhấp chọn Columns
+D. Tại thẻ Home , nhấp chọn Columns
+
+Trong MS Word 2010, để thay đổi khoảng cách giữa hai đoạn văn bản ta thiết lập tại?A. Ô Before và After trong thẻ Page Layout*
+B. ô Line Spacing trong thẻ Page Layout
+C. ô Left và Right trong thẻ Page Layout
+D. ô Above và Below trong thẻ Page Layout
+
+Trong MS Word 2010, để xóa bỏ toàn bộ định dạng kiểu chữ của văn bản đang chọn, ta nhấn tổ hợp phím gì?A. Ctrl -Space*
+B. Ctrl - Delete
+C. Ctrl - Enter
+D. Shift- Space
+
+Trong MS Word 2010, tổ hợp phím .... được dùng để lưu văn bản?
+A. Ctrl -O
+B. Ctrl -P
+C. Ctrl -ND. Ctrl -S*
+
+Trong MS Word 2010, trong khi soạn thảo văn bản, nếu nhấn tổ hợp phím số 1 khi có một khối văn bản đang được chọn thì
+A. Khối văn bản đó biến mấtB. Khối văn bản đó biến mất và thay thế vào đó là số 1*
+C. Số 1 sẽ chèn vào khối văn bản đang chọn
+D. Số 1 sẽ chèn vào sau khối văn bản đang chọn
+
+Khi soạn thảo bảng mã .... thì phải chọn font có tên "Time New Roman" thì mới gõ được tiếng Việt ?
+A. TCVN 3
+B. Telex
+C. VietWarw_XD. Unicode*
+
+Trong MS Word 2010 để chèn một chữ nghệ thuật vào văn bản ta gọi lệnh gì?
+A. Tại the Insert, nhấp nút QuickPartB. Tại thẻ Insert, nhấp nút ClipArt*
+C. Tại thẻ Insert, nhấp nút WordArt
+D. Tại thẻ Insert, nhấp nút Equation
+
+Cho bảng số liệu như sau trong MS Excel 2010. Yêu cầu: Tính trị giá = Số lượng * Đơn giá *(1 - Mức giảm) . Trong đó, mức giảm được tính như sau: Nếu số lượng bán ra dưới 50 thì mức giảm là 0; ngược lại thì mức giảm sẽ là 10 %. Công thức tại ô F2 như thế nào? <img>img/tinhoc/1.jpg</img>
+A. D2*E2 *(1-If (D2 <50; 10%;0%))
+B. D$2*E$2 *(1-If (D2 <50;0%; 10%))C. D2*E2 *(1-If (D2 <50; 0%;10%))*
+D. D2*E2 *1-If (D2 <50; 0%;10%)
+
+Khi nhập giá trị 3+4 vào trong ô A3 của Sheet 1 trong MS Excel 2010 và Enter thì nội dung hiển thị trên ô A3 là gì?A. 3+4*
+B. #NAME ?
+C. 7
+D. Không hiển thị gì cả
+
+Trong MS Excel 2010, ô F8 có chứa nội dung "06KT5A002" . Công thức =RIGHT (F8;4) sẽ cho kết quả là:
+A. "06KT"B. "0012"*
+C. "12"
+D. 12
+
+Để có thể kết hợp chọn nhiều vùng cùng lúc trên MSExcel ta nhấn tổ hợp phím gì trong khi chọn?
+A. Alt
+B. ShiftC. Ctrl*
+D. Esc
+
+Trong MS Excel 2010, khi cần hiệu chỉnh dữ liệu trong ô đang chọn ta có thể nhấn phím gì?
+A. ESC
+B. EnterC. F2*
+D. Delete
+
+Giả sử công thức tại ô F3 là A5 + Sheet3!G$4. Sau khi sao chép công thức này từ ô F3 sang ô F4 thì công thức tại ô F4 sẽ là gì?
+A. A5 + Sheet 3!G$5
+B. A5 + Sheet 3!G$4
+C. B5 + Sheet 3!H$4D. A6+ Sheet 3!G$4*
+
+Trong MS Exel 2010, cho bảng số liệu tiền lương nhân viên như sau:
+Bảng số liệu này sẽ áp dụng cho từ câu 7 đến câu 10
+
+dùng hai ký tự cuối cùng của mã nhân viên tra vào bảng mã để điền thông tin PHÒNG BAN. Công thức nào dưới đây được lập tại ô F6?A. =HLOOKUP(LEFT(D6;2);$H$15:$K$16;2;0)*
+B. =VLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
+C. =HLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
+D. Tất cả đều
+
+Tại cột Mã Loại lập công thức để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là ?
+A. = LEFT(D6)
+B. =LEFT(D6;1)
+C. =MID(D6;1;1)D. Tất cả đều *
+
+Số năm công tác được lấy từ ký tự thứ 2 và 3. Vậy công thức nào dưới đây tại ô I6 là nhất?
+A. =RIGHT(D6;2)
+B. =MID(D6;2;2)C. =VALUE(MID(D6;2;2))*
+D. Tất cả đều
+
+Để tính số lượng nhân viên tại ô K12 ta lập công thức như thế nào?A. =COUNTA(E6:E10)*
+B. =COUNT(E6:E11)
+C. =COUNTIF(E6:E10 ; "X")
+D. =SUM(E6:E10)
+
+Để có thể kết hợp chọn nhiều vùng cùng lúc trên MS Excel ta nhấn tổ hợp phím nào trong khi chọn
+A. Alt
+B. ShiftC. Ctrl*
+D. Esc
+
+Trong MS Excel 2010, khi cần hiệu chỉnh dữ liệu trong ô đang chọn ta có thể nhấn phím gì?
+A. ESC
+B. EnterC. F2*
+D. Delete
+
+Với bảng số liệu dưới đay trong MS Excel 2010 công thức để tính lương tại ô C2 như thế nào với yêu cầu
+Lương= HSL* Lương cơ bản và làm tròn chẵn đơn vị nghìn đồngA. =ROUND(B2 *B$4;-4)*
+B. =ROUND(B2 *B$4;3)
+C. =ROUND(B2 *B4;-3)D. =ROUND(B2 *B$4;-3)*
+
+Trong MS Excel 2010, thao tác nhấp chọn ô A2 , giữ phím Shift và nhấp tiếp vào ô D7 có ý nghĩa gì?A. Bôi đen vùng A2 : D7*
+B. Bôi đen 2 ô A2 và D7
+C. Sao chép dữ liệu từ ô A2 sang ô D7
+D. Di chuyển dữ liệu từ ô A2 sang ô D7
+
+Trong MS Excel 2010; sau khi nhập dữ liệu cho một ô, để chuyển con trỏ sang ô bên phải thì nhấn phím?
+A. Delete
+B. EnterC. Tab*
+D. Esc
+
+Trong MS Excel 2010, để di chuyển con trỏ đên ô cuối cùng của dòng dữ liệu ta sử dụng cách nào sau đây?A. Nhấn End và phím mũi tên sang phải (->)*
+B. Nhấn End và phím mũi tên sang trái (<-)
+C. Nhấn Ctrl -End
+D. Nhấn Ctrl- Home
+
+Trong MS Excel 2010, công thức nào sau đây sẽ cho lỗi #VALUE?
+A. =COUNTA("A";13;4)B. =MAX("A";13;4)*
+C. =COUNTIF(D7:D18;"A")
+D. =COUNTA("A";13;4)
+
+Giả sử giá trị ĐƠN GIÁ nằm tại ô A3 của Sheet1, giá trị của cột SỐ LƯỢNG nằm tại ô F3 của Sheet2. Để tính giá trị THÀNH TIỀN theo công thức = SỐ LƯỢNG * ĐƠN GIÁ vào ô H3 của Sheet2 thì ta lập công thức như thế nào?A. Sheet1!A3 *F3*
+B. Sheet1!A3 * Sheet1!F3
+C. A3*F3
+D. A3* Sheet2!F3
+
+Trong MS Excel 2010, ô F8 có chứa nội dung"06KT5A0012". Để lấy ra từ nội dung trong ô F8 chữ "KT5A" ta sử dụng công thức
+A. RIGHT(F8;4)
+B. MID(F8;4;2)C. MID(F8;3;4)*
+D. LEFT(F8;6)
+
+Trong MS Excel 2010, để xóa dữ liệu trong các ô đang chọn thì ta dùng cách nào?
+A. Tại thẻ Home, nhấn nút Delete trong nhóm CellsB. Nhấn phải chuột và chọn lệnh Clear contents*
+C. Nhấn chuột phải lên vùng đang chọn, chọn lệnh Delete
+D. Nhấn phím BackSpace
+
+Trong MS Excel 2010, để xóa dữ liệu trong các ô đang chọn thì ta dùng cách nào?
+A. Tại thẻ Home, nhấp nút Delete trong nhóm CellsB. Nhấp phải chuột và chọn lệnh Clear Contents*
+C. Nhấp chuột phải lên vùng đang chọn, chọn lệnh Delete
+D. Nhấn phím BackSpace
+
+Trong MS Excel 2010, để xóa các dòng đang chọn ta thực hiện bằng cách nào?
+A. Nhấn phím Delete
+B. Tại thẻ Home, nhấp nút Delete trong nhóm Cell, chọn Delete Sheet Rows
+C. Nhấp phải lên dòng đang chọn, Clear ContentsD. Tất cả các cách trên đều *
+
+Trong MS Excel 2010, khi lập công thức tại ô A3 của Sheet 1 nhưng muốn tham chiếu đến dữ liệu vảu ô B3 trong Sheet2 và nhân với 1000 thì công thức là:
+A. Sheet1!B3*1000
+B. B3!Sheet2*1000C. Sheet2!B3*1000*
+D. B3*1000
+
+Tập hợp các bảng tính trong một file Excel được gọi là một
+A. Document
+B. Presentation
+C. SheetD. Book*
+
+Trong MS Excel 2010, tổ hợp phím nào được dùng để thay thế cho thao tác vào File, chọn Save
+A. Ctrl-O
+B. Ctrl-PC. Ctrl-S*
+D. Ctrl- N
+
+Trong MS Excel 2010, khi sử dụng hàm SUM thì ta có thể ....?A. Không sử dụng tham số nào?*
+B. Sử dụng tối đa là một tham số
+C. Sử dụng tối đa là hai tham sốD. Sử dụng tối đa là 255 tham số*
+
+Trong MS Excel 2010, hàm OR là một hàm logic. Hàm cho giá trị (true) khi ....?A. Có ít nhất hai biểu thức điều kiện của hàm có giá trị *
+B. Chỉ cần một biểu thức điều kiện nào đó của hàm có giá trị
+C. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị
+D. Tất cả các biểu thức điều kiện của hàm có giá trị
+
+Một tập tin được tạo ra bởi.... sẽ đuôi mặc định là XLSX.
+A. Microsoft Word 2010B. Microsoft Excel 2010*
+C. Microsoft PowerPoint 2010
+D. Microsoft Excel 2003
+
+Trong MS Excel , khi nhập liệu thì giá trị nào sau đây được hiểu là dữ liệu dạng chuỗi?A. 0001*
+B. -567
+C. 31/04/2009
+D. 1000
+
+Trong MS Excel 2010, giả sử tại ô H9 chứa giá trị 167900. Tại ô G9 ta lập công thức .... để cho kết quả là 168000
+A. =MOD(H9;1000)
+B. =ROUND(H9;3)C. =ROUND(H9;-3)*
+D. =INT(H9)
+
+Trong MS Excel 2010, để chọn toàn bộ nội dung thì nhấn tổ hợp phím nào?
+A. Ctrl -Alt-A
+B. Shift -AC. Ctrl -A*
+D. Shift - Ctrl -A
+
+Trên thẻ Home của thanh công cụ Riboon trong MS Excel 2010, biểu tượng (Increase Decimal)có ý nghĩa .... cho vùng dữ liệu được lựa chọnA. Tăng số lẻ thập phân và làm tròn số*
+B. Giảm số lẻ thập phân và làm tròn số
+C. Làm tròn số và lấy 2 số lẻ thập phân
+D. Định dạng số theo kiểu phân lớp
+
+Khi dữ liệu trên một ô chuyển thành dãy các ký hiệu dấu ##### cho ta biết điều gì?
+A. Tên hàm trong công thức bị
+B. Xảy ra lỗi khi tham chiếu dữ liệuC. Độ rộng của cột không đủ rộng để hiển thị*
+D. Địa chỉ tham chiếu không có thực
+
+Trong MS Excel 2010, giả sử vùng giá trị từ B4 đến B20 chứa cột Họ và tên sinh viên. Với yêu cầu bài toán "Tính tổng số lượng sinh viên có trong danh sách" thì công thức sẽ là gì?A. =COUNTA(B4:B20)*
+B. =COUNT(B4:B20)
+C. =SUM(B4:B20)
+D. Tất cả đều
+
+Trong MS Excel 2010, thành phần thứ 3 trong hàm VLOOKUP là gì?
+A. Bảng dò
+B. Bảng trị dòC. Cột tham chiếu để lấy kết quả*
+D. Dòng tham chiếu để lấy kết quả
+
+Khi nhập giá trị ngày 21/08/2009 mà MS Excel KHÔNG tự động canh phải nội dung thì trường hợp này có nghĩa là gì?A. Máy tính thiết lập cách nhập ngày theo kiểu tháng/ ngày/ năm*
+B. Tự động canh trái vì nó là kiểu số
+C. Đây là một giá trị ngày không hợp lệ
+D. Sử dụng ký hiệu phân cách ngày tháng
+
+Trong MS Excel 2010, hàm .... được dùng để tính tổng các giá trị trong một vùng nào đó khi các giá trị trong một vùng tương ứng thỏa mãn điều kiện
+A. COUNT
+B. SUMC. SUMIF*
+D. COUNTIF
+
+Trong MS Excel 2010, công thức LEFT(A3;3) cho ra kết quả là gì, biết rằng ô A3 chứa nội dung "Tin HỌC"?
+A. "Tin học"
+B. "TIN"
+C. "HỌC"D. Tất cả đều sai. *
+
+1 byte bằng:
+A. 2 bitB. 8 bit*
+C. 10 bit
+D. 16 bit
+
+1 KB bằng
+A. 1000 bit
+B. 1024 bit
+C. 1000 byteD. 1024 byte*
+
+Đơn vị đo lượng tin là
+A. Hz
+B. KHz
+C. GHzD. bit*
+
+Chữ viết tắt MB thường gặp trong các tài liệu về máy tính có nghĩa là gì:
+A. là đơn vị đo độ phân giải màn hình
+B. là đơn vị đo cường độ âm thanh
+C. là đơn vị đo tốc độ xử lýD. là đơn vị đo khả năng lưu trữ*
+
+Trong Excel, bạn có thể cho dòng chữ trong một ô hiển thị theo kiểu gì
+A. Theo chiều nằm ngang
+B. Theo chiều thẳng đứng
+C. Theo chiều nghiêngD. Cả 3 kiểu trên*
+
+Để khởi động lại máy tính, phát biểu nào dưới đây là sai.
+A. Nhấn tổ hợp phím Ctrl - Alt - Del, chọn mục Restart
+B. Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục RestartC. Bấm nút Power trên hộp máy*
+D. Bấm nút Reset trên hộp máy
+
+Để tắt máy tính cách ta chọnA. Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shutdown*
+B. Tắt nguồn điện
+C. Bấm nút Power trên hộp máy
+D. Bấm nút Reset trên hộp máy

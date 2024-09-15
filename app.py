@@ -1,12 +1,15 @@
 import streamlit as st
 from os.path import exists
+import os
 import random
 import re
+# list all txt file from the current directory
+txt_files = [f for f in os.listdir('.') if f.endswith('.txt')]
 
 # Read data from tn.txt
-def load_data():
-    if exists('tn.txt'):
-        with open('tn.txt', 'r', encoding='utf8') as f:
+def load_data(file_name):
+    if file_name in txt_files:
+        with open(file_name, 'r', encoding='utf8') as f:
             data = []
             raw_data = f.read().split('\n\n')
             for q in raw_data:
@@ -25,17 +28,25 @@ def load_data():
                 options = [o.replace('*', '') for o in options]
                 data.append({"question": question, "options": options, "correct": correct, "imgs": imgs})
             random.shuffle(data)
+            st.session_state.quiz_data = data
             return data
     else:
-        return [
-            {"question": "Câu 1: ...", "options": ["A", "B", "C", "D"], "correct": "A"},
-            {"question": "Câu 2: ...", "options": ["A", "B", "C", "D"], "correct": "B"},
-            # Add more questions as needed
-        ]
+        return []
+
+st.set_page_config(layout="wide")
+
+db_selector_col1, db_selector_col2 = st.columns([7, 3], vertical_alignment='bottom')
+with db_selector_col1:
+    # let user choose the file
+    file_name = st.selectbox("Choose a file", [t.replace('.txt','') for t in txt_files]) + '.txt'
+
+with db_selector_col2:
+    if st.button("Load Selected Data", use_container_width=True):
+        st.session_state.quiz_data = load_data(file_name)
 
 # Store the quiz data in session_state
 if 'quiz_data' not in st.session_state:
-    st.session_state.quiz_data = load_data()
+    st.session_state.quiz_data = load_data(txt_files[0])
 
 # Initialize the quiz index in session_state if it doesn't exist
 if 'qs_index' not in st.session_state:
@@ -48,8 +59,6 @@ if 'close_expander' not in st.session_state:
 # Initialize the checkbox state for editing
 if 'checkbox_checked' not in st.session_state:
     st.session_state.checkbox_checked = False
-
-st.set_page_config(layout="wide")
 
 # hide topbar
 st.markdown("""
@@ -64,7 +73,7 @@ st.markdown("""
 st.title("Trắc Nghiệm Sau Đại Học Y Khoa Phạm Ngọc Thạch")
 st.write("Liên hệ: jetaudio.media@gmail.com")
 
-col1, col2, col3 = st.columns([1, 10, 1], vertical_alignment='center')
+col1, col2, col3 = st.columns([1, 10, 1], vertical_alignment='bottom')
 
 # Handle previous and next buttons
 with col1:
