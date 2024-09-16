@@ -1449,7 +1449,7 @@ D. Không hiển thị gì cả
 
 Trong MS Excel 2010, ô F8 có chứa nội dung "06KT5A002" . Công thức =RIGHT (F8;4) sẽ cho kết quả là:
 A. "06KT"
-B. "0012"*
+B. "A002"*
 C. "12"
 D. 12
 
