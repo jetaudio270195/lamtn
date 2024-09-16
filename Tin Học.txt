@@ -1449,7 +1449,7 @@ D. Không hiển thị gì cả
 
 Trong MS Excel 2010, ô F8 có chứa nội dung "06KT5A002" . Công thức =RIGHT (F8;4) sẽ cho kết quả là:
 A. "06KT"
-B. "0012"*
+B. "A002"*
 C. "12"
 D. 12
 
@@ -1480,11 +1480,11 @@ B. =VLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
 C. =HLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
 D. Tất cả đều
 
-Tại cột Mã Loại lập công thức để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là ?
-A. = LEFT(D6)
-B. =LEFT(D6;1)
+Tại cột Mã Loại lập công thức, để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là đúng?
+A. =LEFT(D6)
+B. =LEFT(D6;1)*
 C. =MID(D6;1;1)
-D. Tất cả đều *
+D. Tất cả đều sai
 
 Số năm công tác được lấy từ ký tự thứ 2 và 3. Vậy công thức nào dưới đây tại ô I6 là nhất?
 A. =RIGHT(D6;2)
@@ -1571,7 +1571,7 @@ B. Tại thẻ Home, nhấp nút Delete trong nhóm Cell, chọn Delete Sheet Ro
 C. Nhấp phải lên dòng đang chọn, Clear Contents
 D. Tất cả các cách trên đều *
 
-Trong MS Excel 2010, khi lập công thức tại ô A3 của Sheet 1 nhưng muốn tham chiếu đến dữ liệu vảu ô B3 trong Sheet2 và nhân với 1000 thì công thức là:
+Trong MS Excel 2010, khi lập công thức tại ô A3 của Sheet 1 nhưng muốn tham chiếu đến dữ liệu của ô B3 trong Sheet2 và nhân với 1000 thì công thức là:
 A. Sheet1!B3*1000
 B. B3!Sheet2*1000
 C. Sheet2!B3*1000*
