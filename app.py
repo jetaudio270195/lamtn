@@ -26,7 +26,7 @@ def load_data(file_name):
                     correct = correct[0].rstrip('*')
                 else:
                     correct = None  # Set to None if no correct answer is marked
-                options = [o.replace('*', '') for o in options]
+                options = [o.rstrip('*') for o in options]
                 data.append({"question": question, "options": options, "correct": correct, "imgs": imgs})
             random.shuffle(data)
             st.session_state.quiz_data = data
