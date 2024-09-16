@@ -118,7 +118,7 @@ Trong khi làm việc với Excel, để nhập vào công thức tính toán ch
 A. Dấu chấm hỏi (?)
 B. Dấu bằng (=)*
 C. Dấu hai chấm (:)
-D. Dấu đô la ($)
+D. Dấu đô la (\$)
 
 Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?
 A. Chương trình bảng tính bị nhiễm virus.
@@ -139,10 +139,10 @@ C. #VALUE!
 D. #DIV/0!*
 
 Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?
-A. B$1:D$10
-B. $B1:$D10
-C. B$1$:D$10$
-D. $B$1:$D$10*
+A. B\$1:D\$10
+B. \$B1:\$D10
+C. B\$1\$:D\$10\$
+D. \$B\$1:\$D\$10*
 
 Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?
 A. #
@@ -656,9 +656,9 @@ D. không thực hiện được
 
 Để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên ta phải
 A. đưa con trỏ văn bản vào giữa đoạn văn bản cần căn lề
-B. chọn cả đoạn văn bản cần căn lề*
+B. chọn cả đoạn văn bản cần căn lề
 C. chọn một dòng bất kỳ trong đoạn văn bản cần căn lề
-D. cả 3 cách nêu trong câu này đều
+D. cả 3 cách nêu trong câu này đều đúng*
 
 Để lưu một đoạn văn bản đã được chọn vào vùng nhớ đệm (clipboard) mà không làm mất đi đoạn văn bản đó ta nhấn tổ hợp phím
 A. Ctrl + X
@@ -1437,7 +1437,7 @@ D. Tại thẻ Insert, nhấp nút Equation
 
 Cho bảng số liệu như sau trong MS Excel 2010. Yêu cầu: Tính trị giá = Số lượng * Đơn giá *(1 - Mức giảm) . Trong đó, mức giảm được tính như sau: Nếu số lượng bán ra dưới 50 thì mức giảm là 0; ngược lại thì mức giảm sẽ là 10 %. Công thức tại ô F2 như thế nào? <img>img/tinhoc/1.jpg</img>
 A. D2*E2 *(1-If (D2 <50; 10%;0%))
-B. D$2*E$2 *(1-If (D2 <50;0%; 10%))
+B. D\$2*E\$2 *(1-If (D2 <50;0%; 10%))
 C. D2*E2 *(1-If (D2 <50; 0%;10%))*
 D. D2*E2 *1-If (D2 <50; 0%;10%)
 
@@ -1465,19 +1465,19 @@ B. Enter
 C. F2*
 D. Delete
 
-Giả sử công thức tại ô F3 là A5 + Sheet3!G$4. Sau khi sao chép công thức này từ ô F3 sang ô F4 thì công thức tại ô F4 sẽ là gì?
-A. A5 + Sheet 3!G$5
-B. A5 + Sheet 3!G$4
-C. B5 + Sheet 3!H$4
-D. A6+ Sheet 3!G$4*
+Giả sử công thức tại ô F3 là A5 + Sheet3!G\$4. Sau khi sao chép công thức này từ ô F3 sang ô F4 thì công thức tại ô F4 sẽ là gì?
+A. A5 + Sheet 3!G\$5
+B. A5 + Sheet 3!G\$4
+C. B5 + Sheet 3!H\$4
+D. A6+ Sheet 3!G\$4*
 
 Trong MS Exel 2010, cho bảng số liệu tiền lương nhân viên như sau:
 Bảng số liệu này sẽ áp dụng cho từ câu 7 đến câu 10
 
 dùng hai ký tự cuối cùng của mã nhân viên tra vào bảng mã để điền thông tin PHÒNG BAN. Công thức nào dưới đây được lập tại ô F6?
-A. =HLOOKUP(LEFT(D6;2);$H$15:$K$16;2;0)*
-B. =VLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
-C. =HLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
+A. =HLOOKUP(LEFT(D6;2);\$H\$15:\$K\$16;2;0)*
+B. =VLOOKUP(LEFT(D6);\$H\$15:\$K\$16;2;0)
+C. =HLOOKUP(LEFT(D6);\$H\$15:\$K\$16;2;0)
 D. Tất cả đều sai
 
 Tại cột Mã Loại lập công thức, để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là đúng?
@@ -1512,10 +1512,10 @@ D. Delete
 
 Với bảng số liệu dưới đay trong MS Excel 2010 công thức để tính lương tại ô C2 như thế nào với yêu cầu
 Lương= HSL* Lương cơ bản và làm tròn chẵn đơn vị nghìn đồng
-A. =ROUND(B2 *B$4;-4)*
-B. =ROUND(B2 *B$4;3)
+A. =ROUND(B2 *B\$4;-4)*
+B. =ROUND(B2 *B\$4;3)
 C. =ROUND(B2 *B4;-3)
-D. =ROUND(B2 *B$4;-3)*
+D. =ROUND(B2 *B\$4;-3)*
 
 Trong MS Excel 2010, thao tác nhấp chọn ô A2 , giữ phím Shift và nhấp tiếp vào ô D7 có ý nghĩa gì?
 A. Bôi đen vùng A2 : D7*
@@ -1590,7 +1590,7 @@ C. Ctrl-S*
 D. Ctrl- N
 
 Trong MS Excel 2010, khi sử dụng hàm SUM thì ta có thể ....?
-A. Không sử dụng tham số nào?*
+A. Không sử dụng tham số nào?
 B. Sử dụng tối đa là một tham số
 C. Sử dụng tối đa là hai tham số
 D. Sử dụng tối đa là 255 tham số*

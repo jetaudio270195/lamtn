@@ -66,13 +66,13 @@ if 'checkbox_checked' not in st.session_state:
 st.markdown("""
 <style>
     header {
-            visibility: hidden;
+        visibility: hidden;
     }
     footer {
-            visibility: hidden;
+        visibility: hidden;
     }
     div[class^="viewerBadge"] {
-            visibility: hidden;
+        visibility: hidden;
     }
 </style>""",
     unsafe_allow_html=True
