@@ -22,7 +22,8 @@ def load_data(file_name):
                 options = q[1:]
                 correct = [c for c in options if c.endswith('*')]
                 if correct:
-                    correct = correct[0].replace('*', '')
+                    # remove * character at the end of the correct answer
+                    correct = correct[0].strip().rstrip('*')
                 else:
                     correct = None  # Set to None if no correct answer is marked
                 options = [o.replace('*', '') for o in options]
