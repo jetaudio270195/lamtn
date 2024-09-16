@@ -71,7 +71,7 @@ st.markdown("""
     footer {
             visibility: hidden;
     }
-    a[href="https://streamlit.io/cloud"] {
+    a[href^="https://streamlit.io/cloud"] {
             visibility: hidden;
     }
 </style>""",
