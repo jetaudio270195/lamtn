@@ -20,10 +20,10 @@ def load_data(file_name):
                     for img in imgs:
                         question = question.replace(f'<img>{img}</img>', '')
                 options = q[1:]
-                correct = [c for c in options if c.endswith('*')]
+                correct = [c.strip() for c in options if c.strip().endswith('*')]
                 if correct:
                     # remove * character at the end of the correct answer
-                    correct = correct[0].strip().rstrip('*')
+                    correct = correct[0].rstrip('*')
                 else:
                     correct = None  # Set to None if no correct answer is marked
                 options = [o.replace('*', '') for o in options]

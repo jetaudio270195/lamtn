@@ -56,7 +56,7 @@ Trong Word, để sao chép một đoạn văn bản vào Clipboard, ta đánh d
 A. Click phải chọn - Copy
 B. Bấm tổ hợp phím Ctrl - C
 C. Cả 2 câu a. b. đều đúng*
-D. Cả 2 câu a. b. đều
+D. Cả 2 câu a. b. đều sai
 
 Trong Word, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải, ...; ta có thể khai báo đơn vị đo:
 A.Centimeters*
@@ -699,8 +699,8 @@ D. Cả 3 câu đều sai*
 Khi soạn thảo văn bản trong Winword, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:
 A. ESC
 B. Ctrl
-C. CapsLock*
-D. Tab
+C. CapsLock
+D. Tab*
 
 Trong soạn thảo Winword, muốn đánh số trang cho văn bản, ta thực hiện:
 A. Insert - Page Numbers*
@@ -1118,15 +1118,15 @@ C. Cả hai cách A và B đều thực hiện được*
 D. Cả 2 cách A và B đều không thực hiện được
 
 PowerPoint cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phải
-A. chọn Insert -> Master Slide*
+A. chọn Insert -> Master Slide
 B. chọn Insert -> Slide Master
 C. chọn View -> Master -> Slide Master
-D. chọn View -> Slide Master -> Master
+D. chọn View -> Slide Master -> Master*
 
 Khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, ta phải
-A. nhấn tổ hợp phím Ctrl + Tab*
+A. nhấn tổ hợp phím Ctrl + Tab
 B. nhấn tổ hợp phím Shift + Tab
-C. nhấn tổ hợp phím Alt + Tab *
+C. nhấn tổ hợp phím Alt + Tab*
 D. nhấn tổ hợp phím Esc + Tab
 
 Một số nhị phân 32 bit nếu biểu diễn trong hệ cơ số 8 sẽ có tối đa bao nhiêu chữ số?
@@ -1542,10 +1542,10 @@ C. =COUNTIF(D7:D18;"A")
 D. =COUNTA("A";13;4)
 
 Giả sử giá trị ĐƠN GIÁ nằm tại ô A3 của Sheet1, giá trị của cột SỐ LƯỢNG nằm tại ô F3 của Sheet2. Để tính giá trị THÀNH TIỀN theo công thức = SỐ LƯỢNG * ĐƠN GIÁ vào ô H3 của Sheet2 thì ta lập công thức như thế nào?
-A. Sheet1!A3 *F3*
-B. Sheet1!A3 * Sheet1!F3
+A. Sheet1!A3*F3*
+B. Sheet1!A3*Sheet1!F3
 C. A3*F3
-D. A3* Sheet2!F3
+D. A3*Sheet2!F3
 
 Trong MS Excel 2010, ô F8 có chứa nội dung"06KT5A0012". Để lấy ra từ nội dung trong ô F8 chữ "KT5A" ta sử dụng công thức
 A. RIGHT(F8;4)
