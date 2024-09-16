@@ -67,6 +67,9 @@ st.markdown("""
     header {
             visibility: hidden;
     }
+    footer {
+            visibility: hidden;
+    }
 </style>""",
     unsafe_allow_html=True
 )
