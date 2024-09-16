@@ -35,7 +35,8 @@ def load_data(file_name):
         return []
 
 st.set_page_config(layout="wide")
-
+st.title("Trắc Nghiệm Sau Đại Học Y Khoa Phạm Ngọc Thạch")
+st.write("Liên hệ: jetaudio.media@gmail.com")
 db_selector_col1, db_selector_col2 = st.columns([7, 3], vertical_alignment='bottom')
 with db_selector_col1:
     # let user choose the file
@@ -76,9 +77,6 @@ st.markdown("""
 </style>""",
     unsafe_allow_html=True
 )
-
-st.title("Trắc Nghiệm Sau Đại Học Y Khoa Phạm Ngọc Thạch")
-st.write("Liên hệ: jetaudio.media@gmail.com")
 
 col1, col2, col3 = st.columns([1, 10, 1], vertical_alignment='bottom')
 
