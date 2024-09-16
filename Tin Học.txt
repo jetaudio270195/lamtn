@@ -1480,11 +1480,11 @@ B. =VLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
 C. =HLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
 D. Tất cả đều
 
-Tại cột Mã Loại lập công thức để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là ?
-A. = LEFT(D6)
-B. =LEFT(D6;1)
+Tại cột Mã Loại lập công thức, để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là đúng?
+A. =LEFT(D6)
+B. =LEFT(D6;1)*
 C. =MID(D6;1;1)
-D. Tất cả đều *
+D. Tất cả đều sai
 
 Số năm công tác được lấy từ ký tự thứ 2 và 3. Vậy công thức nào dưới đây tại ô I6 là nhất?
 A. =RIGHT(D6;2)
