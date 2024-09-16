@@ -1010,7 +1010,7 @@ Trong MS Word, ta làm cách nào để chèn ký tự đặc biệt (Symbol) v�
 A. Vào menu Insert -> Picture.
 B. Vào menu Insert -> Symbol*
 C. Nháy chuột vào AutoShapes trên thanh công cụ.
-D. Tất cả các câu đều .
+D. Tất cả các câu đều sai.
 
 Trong MS Word, ta làm cách nào để chèn hình ảnh vào văn bản?
 A. Vào menu Insert -> Insert Picture.
