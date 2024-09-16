@@ -71,7 +71,7 @@ st.markdown("""
     footer {
             visibility: hidden;
     }
-    a[href^="https://streamlit.io/cloud"] {
+    div[class^="viewerBadge"] {
             visibility: hidden;
     }
 </style>""",
