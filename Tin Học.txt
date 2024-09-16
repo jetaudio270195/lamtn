@@ -59,7 +59,7 @@ C. Cả 2 câu a. b. đều đúng*
 D. Cả 2 câu a. b. đều sai
 
 Trong Word, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải, ...; ta có thể khai báo đơn vị đo:
-A.Centimeters*
+A. Centimeters*
 B. Đơn vị đo bắt buộc là Inches
 C. Đơn vị đo bắt buộc là Points
 D. Đơn vị đo bắt buộc là Picas
@@ -230,7 +230,7 @@ C. 3
 Tính năng Print Preview được sử dụng để?
 A. Xem lại toàn bộ văn bản trước khi in*
 B. In văn bản ra máy in
-C. Cả A và B đều
+C. Cả A và B đều đúng
 
 Khi soạn thảo văn bản trong Winword, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:
 A. ESC
@@ -245,9 +245,9 @@ C. Tools - Page Numbers
 D. Format - Page Numbers
 
 Trong soạn thảo văn bản Word, muốn tạo một trang mới, ta thực hiện:
-A. Insert - New
+A. Insert - Blank Page*
 B. View - New
-C. File - New*
+C. File - New
 D. Edit - New
 
 Khi soạn thảo văn bản xong, để in văn bản ra giấy:
@@ -279,7 +279,7 @@ A. Tìm kiếm một chuỗi ký tự nào đó.*
 B. Thay thế chuỗi ký tự này bằng ký tự khác.
 C. Xoá bỏ các ký tự vừa tìm được.
 
-Trong bảng tính Excel, tại ô A2 gõ vào công thức =MAX-(30,10,65,5) thì nhận được kết quả tại ô A2 là:
+Trong bảng tính Excel, tại ô A2 gõ vào công thức =MAX(30,10,65,5) thì nhận được kết quả tại ô A2 là:
 A. 30
 B. 5
 C. 65*
@@ -547,16 +547,16 @@ C. Ctrl + L*
 D. Ctrl + J
 
 Trong Excel có mấy loại dữ liệu?
-A. 3 loại*
-B. 5 loại
+A. 3 loại
+B. 5 loại*
 C. 6 loại
-D. Tất cả đều .
+D. Tất cả đều sai.
 
 Trong Excel có mấy loại địa chỉ?
 A. 3 loại*
 B. 2 loại
 C. 1 loại
-D. Tất cả đều .
+D. Tất cả đều sai.
 
 Trong Excel, để chọn rời rạc ta nhấn giữ phím nào trong khi chọn?
 A. Shift
@@ -574,7 +574,7 @@ Kết quả của hàm: LEFT("12AB012", 3) ?
 A. 012
 B. 12A*
 C. 12
-D. Các câu trên đều .
+D. Các câu trên đều sai.
 
 Để kết thúc việc trình diễn trong PowerPoint, ta bấm:
 A. Phím 10
@@ -607,10 +607,10 @@ C. View - Custom Animation, rồi chọn Add Effect
 D. Vào Animation, rồi chọn hiệu ứng.*
 
 Khi đang làm việc với PowerPoint, muốn xóa bỏ hiệu ứng trình diễn, ta chọn đối tượng cần xóa bỏ hiệu ứng và thực hiện:
-A. Bấm delete*
-B. Slide Show - Custom Animation, rồi chọn Delete
-C. Cả 2 câu đều .
-D. Cả 2 câu đều .
+A. Bấm delete
+B. Slide Show - Custom Animation, rồi chọn Delete*
+C. Cả 2 câu đều đúng.
+D. Cả 2 câu đều đúng.
 
 Thao tác chọn File -> Close dùng để
 A. lưu tập tin hiện tại
@@ -711,13 +711,13 @@ D. Format - Page Numbers
 Khi soạn thảo văn bản xong, để in văn bản ra giấy
 A. Chọn menu lệnh File - Print
 B. Bấm tổ hợp phím Ctrl - P
-C. Các câu a. và b. đều *
-D. Các câu a. và b. đều
+C. Các câu a. và b. đều đúng*
+D. Các câu a. và b. đều sai
 
 Có bao nhiêu cách để tạo mới (New) một văn bản Word?
 A. 1
-B. 2*
-C. 3
+B. 2
+C. 3*
 
 Trong Word, để cắt vào bộ nhớ tạm một đoạn văn bản đã được chọn, ta chọn thao tác nào?
 A. Ctrl + C
@@ -911,8 +911,8 @@ B. 3
 C. 4
 D. Tất cả các phương án trên đều đúng*
 
-Trong Excel biểu thức =24*2+5*2+(20-10)/2 sẽ trả về kết quả là bao nhiêu?
-A. 47*
+Trong Excel biểu thức =24\*2+5\*2+(20-10)/2 sẽ trả về kết quả là bao nhiêu?
+A. 63*
 B. 271
 C. 138
 D. Không thể thực hiện được biểu thức trên
@@ -956,7 +956,7 @@ C. Cả 2 đáp án trên đều *
 Hệ điều hành OS (Operating System) là?
 A. Công cụ giao tiếp giữa máy tính với các đối tượng ngoài máy tính
 B. Là phần mềm điều khiển toàn bộ tiến trình xảy ra trong máy vi tính
-C. Cả 2 đáp án trên đều *
+C. Cả 2 đáp án trên đều đúng*
 
 Để hủy bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím
 A. Ctrl + X
@@ -1027,6 +1027,7 @@ D. Ấn tổ hợp phím CTRL + J*
 Trong MS Word, ở chế độ xem trước khi in ta có thể sửa dữ liệu trong văn bản được không?
 A. Có
 B. Không*
+
 Thông thường tệp văn bản MS Word 2010 có phần mở rộng là gì?
 A. pptx -> Powerpoint
 B. xlsx -> Excel
@@ -1077,7 +1078,7 @@ D. Ấn tổ hợp phím CTRL + E
 
 Trong MS Word, ta làm cách nào để ngắt trang văn bản?
 A. Ấn tổ hợp phím Ctrl + Enter*
-B. Vào menuFormat -> Tabs
+B. Vào menu Format -> Tabs
 C. Ấn tổ hợp phím Shift + Enter.
 D. Vào menu View -> Page Numbers
 
@@ -1096,8 +1097,8 @@ D. Di chuyển một khối văn bản
 Muốn xóa một đoạn văn bản, ta thực hiện
 A. Đưa con trỏ vào đầu đoạn văn bản cần xoá --> Nhấn phím Delete
 B. Đánh dấu khối chọn đoạn văn bản cần xoá --> Nhấn phím Space Bar
-C. Đánh dấu khối chọn đoạn văn bản cần xoá --> Nhấn tổ hợp phím Ctrl+X
-D. Cả 3 câu A, B, C đều *
+C. Đánh dấu khối chọn đoạn văn bản cần xoá --> Nhấn tổ hợp phím Ctrl+X*
+D. Cả 3 câu A, B, C đều đúng
 
 Để chuyển đổi qua lại giữa các tài liệu đang soạn trong WinWord, ta có thể dùng
 A. Menu Windows, Switch to
@@ -1105,7 +1106,7 @@ B. Menu Windows, Tast List
 C. Menu Windows, List
 D. Nhấn Ctrl +F6*
 
-Để chèn dòng trống dòng 1 và dòng 2, chúng ta phải sử dụng phím
+Để chèn dòng trống giữa dòng 1 và dòng 2, chúng ta phải sử dụng phím
 A. TAB
 B. CTRL
 C. ENTER*
@@ -1195,9 +1196,9 @@ B. Giữ phím Shift và nhấp chuột từ câu cần chọn
 C. nhấp chuột 3 lần vào lề trái của văn bản
 D. Nhấp đôi chuột lên câu cần chọn*
 
-Trong một văn bản của MS Word 2010, có rất nhiều hình vẽ được tạo ra. Mỗi lần Cllick lên một hình nào đó thì chỉ chọn được hình đó. Để chọn được nhiều hình thì ta phải giữ thêm phím nào trong khi chọn?
+Trong một văn bản của MS Word 2010, có rất nhiều hình vẽ được tạo ra. Mỗi lần Click lên một hình nào đó thì chỉ chọn được hình đó. Để chọn được nhiều hình thì ta phải giữ thêm phím nào trong khi chọn?
 A. Enter
-B. Shift*
+B. Ctrl*
 C. Alt
 D. Tab
 
@@ -1215,8 +1216,8 @@ D. Vào thẻ Layout, nhấp nút Split Cells
 
 Chương trình nào sau đây không phải là phần mềm gõ tiếng việt?
 A. Vietkey 2000
-B. Unicode
-C. Unikey và Vietkey 2000*
+B. Unicode*
+C. Unikey và Vietkey 2000
 D. Unikey
 
 Sử dụng kiểu gõ nào để khi nhập hai chữ A sẽ cho ra chữ Â , hai chữ E sẽ cho ra chữ Ê ...
@@ -1417,7 +1418,7 @@ B. Ctrl -P
 C. Ctrl -N
 D. Ctrl -S*
 
-Trong MS Word 2010, trong khi soạn thảo văn bản, nếu nhấn tổ hợp phím số 1 khi có một khối văn bản đang được chọn thì
+Trong MS Word 2010, trong khi soạn thảo văn bản, nếu nhấn phím số 1 khi có một khối văn bản đang được chọn thì
 A. Khối văn bản đó biến mất
 B. Khối văn bản đó biến mất và thay thế vào đó là số 1*
 C. Số 1 sẽ chèn vào khối văn bản đang chọn
@@ -1431,8 +1432,8 @@ D. Unicode*
 
 Trong MS Word 2010 để chèn một chữ nghệ thuật vào văn bản ta gọi lệnh gì?
 A. Tại the Insert, nhấp nút QuickPart
-B. Tại thẻ Insert, nhấp nút ClipArt*
-C. Tại thẻ Insert, nhấp nút WordArt
+B. Tại thẻ Insert, nhấp nút ClipArt
+C. Tại thẻ Insert, nhấp nút WordArt*
 D. Tại thẻ Insert, nhấp nút Equation
 
 Cho bảng số liệu như sau trong MS Excel 2010. Yêu cầu: Tính trị giá = Số lượng * Đơn giá *(1 - Mức giảm) . Trong đó, mức giảm được tính như sau: Nếu số lượng bán ra dưới 50 thì mức giảm là 0; ngược lại thì mức giảm sẽ là 10 %. Công thức tại ô F2 như thế nào? <img>img/tinhoc/1.jpg</img>
@@ -1471,28 +1472,25 @@ B. A5 + Sheet 3!G\$4
 C. B5 + Sheet 3!H\$4
 D. A6+ Sheet 3!G\$4*
 
-Trong MS Exel 2010, cho bảng số liệu tiền lương nhân viên như sau:
-Bảng số liệu này sẽ áp dụng cho từ câu 7 đến câu 10
-
-dùng hai ký tự cuối cùng của mã nhân viên tra vào bảng mã để điền thông tin PHÒNG BAN. Công thức nào dưới đây được lập tại ô F6?
-A. =HLOOKUP(LEFT(D6;2);\$H\$15:\$K\$16;2;0)*
-B. =VLOOKUP(LEFT(D6);\$H\$15:\$K\$16;2;0)
-C. =HLOOKUP(LEFT(D6);\$H\$15:\$K\$16;2;0)
+Dùng hai ký tự cuối cùng của mã nhân viên tra vào bảng mã để điền thông tin PHÒNG BAN. Công thức nào dưới đây được lập tại ô F6?<img>img/tinhoc/3.jpg</img>
+A. =HLOOKUP(RIGHT(D6;2);\$H\$15:\$K\$16;2;0)*
+B. =VLOOKUP(RIGHT(D6);\$H\$15:\$K\$16;2;0)
+C. =HLOOKUP(RIGHT(D6);\$H\$15:\$K\$16;2;0)
 D. Tất cả đều sai
 
-Tại cột Mã Loại lập công thức, để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là đúng?
+Tại cột Mã Loại lập công thức, để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là đúng?<img>img/tinhoc/3.jpg</img>
 A. =LEFT(D6)
 B. =LEFT(D6;1)*
 C. =MID(D6;1;1)
 D. Tất cả đều sai
 
-Số năm công tác được lấy từ ký tự thứ 2 và 3. Vậy công thức nào dưới đây tại ô I6 là nhất?
+Số năm công tác được lấy từ ký tự thứ 2 và 3. Vậy công thức nào dưới đây tại ô I6 là đúng nhất?<img>img/tinhoc/3.jpg</img>
 A. =RIGHT(D6;2)
 B. =MID(D6;2;2)
 C. =VALUE(MID(D6;2;2))*
 D. Tất cả đều
 
-Để tính số lượng nhân viên tại ô K12 ta lập công thức như thế nào?
+Để tính số lượng nhân viên tại ô K12 ta lập công thức như thế nào?<img>img/tinhoc/3.jpg</img>
 A. =COUNTA(E6:E10)*
 B. =COUNT(E6:E11)
 C. =COUNTIF(E6:E10 ; "X")
@@ -1510,9 +1508,8 @@ B. Enter
 C. F2*
 D. Delete
 
-Với bảng số liệu dưới đay trong MS Excel 2010 công thức để tính lương tại ô C2 như thế nào với yêu cầu
-Lương= HSL* Lương cơ bản và làm tròn chẵn đơn vị nghìn đồng
-A. =ROUND(B2 *B\$4;-4)*
+Với bảng số liệu dưới đây trong MS Excel 2010 công thức để tính lương tại ô C2 như thế nào với yêu cầu: Lương= HSL* Lương cơ bản và làm tròn chẵn đơn vị nghìn đồng<img>img/tinhoc/2.jpg</img>
+A. =ROUND(B2 *B\$4;-4)
 B. =ROUND(B2 *B\$4;3)
 C. =ROUND(B2 *B4;-3)
 D. =ROUND(B2 *B\$4;-3)*
@@ -1596,10 +1593,10 @@ C. Sử dụng tối đa là hai tham số
 D. Sử dụng tối đa là 255 tham số*
 
 Trong MS Excel 2010, hàm OR là một hàm logic. Hàm cho giá trị (true) khi ....?
-A. Có ít nhất hai biểu thức điều kiện của hàm có giá trị *
-B. Chỉ cần một biểu thức điều kiện nào đó của hàm có giá trị
-C. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị
-D. Tất cả các biểu thức điều kiện của hàm có giá trị
+A. Có ít nhất hai biểu thức điều kiện của hàm có giá trị đúng
+B. Chỉ cần một biểu thức điều kiện nào đó của hàm có giá trị đúng*
+C. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị đúng
+D. Tất cả các biểu thức điều kiện của hàm có giá trị đúng
 
 Một tập tin được tạo ra bởi.... sẽ đuôi mặc định là XLSX.
 A. Microsoft Word 2010
