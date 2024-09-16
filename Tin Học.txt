@@ -184,7 +184,7 @@ Trong chế độ tạo bảng (Table) của phần mềm Word, muốn tách m�
 A. Table - Cells
 B. Insert - Merge Cells
 C. Table - Merge Cells
-D. Table tool- Layout- Split Cells (gộp thì Merge Cells)*
+D. Table tool- Layout- Split Cells*
 
 Trong MS Word, công dụng của tổ hợp phím Ctrl - S là:
 A. Xóa tệp văn bản
@@ -520,7 +520,7 @@ Hệ điều hành là:
 A. Phần mềm ứng dụng.
 B. Phần mềm hệ thống.*
 C. Phần mềm tiện ích.
-D. Tất cả đều .
+D. Tất cả đều sai.
 
 Trong Word, để gõ công thức toán học, ta chọn thao tác nào?
 A. View/Microsoft Equation
@@ -651,7 +651,7 @@ D. chèn thêm một slide mới vào ngay sau slide cuối cùng
 Để tạo một slide giống hệt như slide hiện hành mà không phải thiết kế lại, người sử dụng
 A. chọn Insert -> Duplicate
 B. chọn Insert -> New Slide
-C. chọn Home-> Duplicate selecte Slide*
+C. chọn Home-> Duplicate selected Slide*
 D. không thực hiện được
 
 Để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên ta phải
@@ -965,10 +965,10 @@ C. Ctrl + C
 D. Ctrl + V
 
 Muốn xoá đi một cột bảng biểu trong Slide hiện hành ta thực hiện lệnh:
-A. Chọn cột đó, nhấn chuột phải lên vùng đã chọn và chọn Delete columns
+A. Chọn cột đó, nhấn chuột phải lên vùng đã chọn và chọn Delete columns*
 B. Nhấn chụôt phải lên vùng bất kỳ thuộc cột đó và nhấn phím Delete
 C. Đưa trỏ vào văn bản vào ô bất kỳ thuộc cột đó và nhấn phím Delete
-D. Chọn cột đó, nhấn chuột phải lên vùng đã chọn và nhấn phím Delete*
+D. Chọn cột đó, nhấn chuột phải lên vùng đã chọn và nhấn phím Delete
 
 Để gõ tiêu đề, đánh số trang trong các slide, khai báo ngày tháng ..... ta thực lệnh nào sau đây?
 A. Chọn Insert -> chọn slide number*
@@ -1323,7 +1323,7 @@ D. Unicode
 
 Trong MS Word 2010, ký hiệu điểm tab có ý nghĩa gì?
 A. Canh văn bản ở lề trái của văn bản
-B. Canh văn banr ở mép bên phải tại vị trí TAB
+B. Canh văn bản ở mép bên phải tại vị trí TAB
 C. Canh văn bản ở mép bên trái tại vị trí TAB*
 D. Canh văn bản ở lề 2 bên của khổ giấy
 
@@ -1478,7 +1478,7 @@ dùng hai ký tự cuối cùng của mã nhân viên tra vào bảng mã để 
 A. =HLOOKUP(LEFT(D6;2);$H$15:$K$16;2;0)*
 B. =VLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
 C. =HLOOKUP(LEFT(D6);$H$15:$K$16;2;0)
-D. Tất cả đều
+D. Tất cả đều sai
 
 Tại cột Mã Loại lập công thức, để trích ký hiệu đầu tiên của mã Nhân viên. Công thức nào sau đây tại ô H6 là đúng?
 A. =LEFT(D6)
@@ -1641,7 +1641,7 @@ Trong MS Excel 2010, giả sử vùng giá trị từ B4 đến B20 chứa cột
 A. =COUNTA(B4:B20)*
 B. =COUNT(B4:B20)
 C. =SUM(B4:B20)
-D. Tất cả đều
+D. Tất cả đều đúng
 
 Trong MS Excel 2010, thành phần thứ 3 trong hàm VLOOKUP là gì?
 A. Bảng dò

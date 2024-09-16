@@ -70,6 +70,9 @@ st.markdown("""
     footer {
             visibility: hidden;
     }
+    a[href="https://streamlit.io/cloud"] {
+            visibility: hidden;
+    }
 </style>""",
     unsafe_allow_html=True
 )
