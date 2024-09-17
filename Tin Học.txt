@@ -1029,8 +1029,8 @@ A. Có
 B. Không*
 
 Thông thường tệp văn bản MS Word 2010 có phần mở rộng là gì?
-A. pptx -> Powerpoint
-B. xlsx -> Excel
+A. pptx
+B. xlsx
 C. docx*
 D. txt
 
@@ -1705,3 +1705,33 @@ A. Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục 
 B. Tắt nguồn điện
 C. Bấm nút Power trên hộp máy
 D. Bấm nút Reset trên hộp máy
+
+Cách bật tắt chế độ sao lưu tự động trong Word?
+A. File > Options > Save*
+B. File > Options > Proofing
+C. File > Save > AutoSave
+D. File > Save As > AutoSave
+
+Cách tạo sơ đồ tổ chức trong Word?
+A. Insert > Chart
+B. Insert > Diagram
+C. Insert > SmartArt*
+D. Insert > Shapes
+
+Đưa con trỏ trở về vị trí soạn thảo trước đó
+A. Shift + F2
+B. Shift + F3
+C. Shift + F4
+D. Shift + F5*
+
+Cách bật kiểm tra chính tả
+A. F5
+B. F6
+C. F7*
+D. F8
+
+Phím tắt lưu file với tên khác
+A. F10
+B. F11
+C. F12*
+D. F13
